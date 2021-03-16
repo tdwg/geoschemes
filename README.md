@@ -32,10 +32,13 @@ The interest group intends to conduct written exchanges via the TDWG workspace i
 Interest group members should also “watch” the [new] repository in GitHub. (Requires a GitHub account, which is free.)  GitHub users watching a repository can receive email notifications about issues being discussed, as well as file updates.  (Please watch Peter Desmet’s presentation (video) about how TDWG interest groups are using GitHub.)
 
 # Resources
-Geographical Schemes - proposed new GitHub repository (short-name “geoschemes”) 
-World Geographical Scheme for Recording Plant Distributions (WGSRPD) https://github.com/tdwg/wgsrpd 
-Marine Regions https://www.marineregions.org/
-Database of Global Administrative Areas (GADM):  https://gadm.org
-References
-Brummitt, R.K., Pando, F., Hollis, S., Brummitt, N.A. (2001). World geographical scheme for recording plant distributions. Edit. 2. TDWG Standard no2. Pittsburg (PA, USA): Hunt Institute for Botanical Documentation, Carnegie Mellon University. https://web.archive.org/web/20160125135239/http://www.nhm.ac.uk/hosted_sites/tdwg/TDWG_geo2.pdf 
-Hollis, S. & R.K. Brummitt. 1992. World Geographical Scheme for Recording Plant Distributions. TDWG Standard no2. Pittsburgh (PA, USA): Hunt Institute for Botanical Documentation, Carnegie Mellon University.
+
+- Geographical Schemes - proposed new GitHub repository (short-name “geoschemes”) 
+- World Geographical Scheme for Recording Plant Distributions (WGSRPD) https://github.com/tdwg/wgsrpd 
+- Marine Regions https://www.marineregions.org/
+- Database of Global Administrative Areas (GADM):  https://gadm.org
+
+# References
+
+- Brummitt, R.K., Pando, F., Hollis, S., Brummitt, N.A. (2001). World geographical scheme for recording plant distributions. Edit. 2. TDWG Standard no2. Pittsburg (PA, USA): Hunt Institute for Botanical Documentation, Carnegie Mellon University. https://web.archive.org/web/20160125135239/http://www.nhm.ac.uk/hosted_sites/tdwg/TDWG_geo2.pdf 
+- Hollis, S. & R.K. Brummitt. 1992. World Geographical Scheme for Recording Plant Distributions. TDWG Standard no2. Pittsburgh (PA, USA): Hunt Institute for Botanical Documentation, Carnegie Mellon University.
