@@ -6,6 +6,7 @@ A repository for developing a "World Geographic Scheme for Recording Species Dis
 #### [Francisco Pando](mailto:pando@rjb.csic.es) - Real Jardín Botánico-CSIC, Madrid
 #### [Nicolas Bailly](mailto:n.bailly@q-quatics.org) - FishBase/SeaLifeBase, Q‑quatics, Philippines; Beaty Biodiversity Museum and Sea Around Us, University of British Columbia, Vancouver
 #### [Visotheary Ung](mailto:visotheary.ung@mnhn.fr) - Muséum national d’Histoire Naturelle, Paris
+#### [Serge Gofas](sgofas@uma.es) - Universidad de Málaga, Málaga
 
 
 # Motivation
