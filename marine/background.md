@@ -554,7 +554,9 @@ correspond to the small Pacific facade of Canada and can be merged in a
 single unit.
 
 <img src="./background-images/image22.png"
-style="width:4.16667in;height:3.29514in" />For the Arctic and North
+style="width:4.16667in;height:3.29514in" />
+
+For the Arctic and North
 Atlantic, the units are similar to, but not coincident, with the MEOW,
 as follows (map 1):
 
@@ -578,9 +580,8 @@ Scotian Shelf (MEOW 39. Scotian Shelf, and a small part of the adjacent
 Estuary and Gulf of St. Lawrence (MEOW 37. Gulf of St. Lawrence–Eastern
 Newfoundland)
 
-> <img src="./background-images/image23.jpeg"
-> style="width:2.65208in;height:1.83403in" /><img src="./background-images/image24.jpeg"
-> style="width:4.09236in;height:2.59236in" />
+<img src="./background-images/image23.jpeg" style="width:2.65208in;height:1.83403in" />
+<img src="./background-images/image24.jpeg" style="width:4.09236in;height:2.59236in" />
 
 United States: Terrestrial scheme uses 49 states, not relevant for the
 marine scheme because some (e.g. Delaware, Rhode Island) are very small
