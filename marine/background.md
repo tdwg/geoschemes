@@ -14,9 +14,9 @@ the whole world and has been widely accepted.
 With an increasing wealth of data available in the marine realm, a
 similar standard is desirable for the sea. Geo-referenced data are
 accurately represented in such databases as the Ocean Biodiversity
-Information System, established 26 May 2000 (\<https://obis.org\>, see
+Information System, established 26 May 2000 (<https://obis.org>, see
 Grassle, 2000) and the Global Biodiversity Information Facility,
-established 2001 (\<https://www.gbif.org/\>, see ) but there is also a
+established 2001 (<https://www.gbif.org/>, see ) but there is also a
 need for pre-defined geographical units as a tool for (1) retrieval of
 point data and (2) handling the data formulated as the name of a country
 or region, with no more detail and no coordinates. Like for the
@@ -59,7 +59,7 @@ constituent states or provinces.”
 
 A wealth of marine (and also land) geographical units is stored, with
 associated descriptions and shapefiles, on the Marine Regions website
-\<https://www.marineregions.org/\> at VLIZ, the Flanders Marine
+<https://www.marineregions.org/> at VLIZ, the Flanders Marine
 Institute. These units are classified according to “placetypes”, which
 are sets of geographical units established from the same source and/or
 with the same rationale. One of these “placetypes” is precisely the
@@ -130,7 +130,7 @@ style="width:3.41667in;height:1.70347in" />
 style="width:2.88889in;height:1.44444in" />
 
 Figure 1. The IHO polygons (this representation downloaded from GITHUB
-forum \<https://github.com/gbif/pipelines/issues/612\>, accessed
+forum https://github.com/gbif/pipelines/issues/612, accessed
 2022-05-26) (below, the SeaVox areas for comparison)
 
 The largest IHO polygons could be candidate geounits for Level 1 of a
@@ -145,7 +145,7 @@ also many local units are unbalanced as for their place in the
 hierarchy.
 
 There is also an initiative called SeaVoX
-\<https://www.bodc.ac.uk/resources/vocabularies/seavox/\>, largely
+https://www.bodc.ac.uk/resources/vocabularies/seavox/, largely
 similar to the IHO scheme but with North Atlantic, South Atlantic and
 South Pacific further divided into East and West parts. There also,
 Level 1 is utterly unbalanced with (mostly the same) adjacent area being
@@ -181,7 +181,7 @@ unit at level 4. The EEZs of larger countries (e.g. The United States,
 South Africa, Indonesia...) and/or with a complex maritime facade (e.g.
 Spain, Egypt, Costa Rica...) must be split.
 
-The \<marineregions.org website at VLIZ \<www.marineregions.org/\> has
+The <marineregions.org website at VLIZ <www.marineregions.org/> has
 developed a set of geounits with placename “Marine Regions” (not to be
 confused with the name of the website as a whole) which is the
 intersection of EEZs with the IHO sea areas. These are straightforward
@@ -207,15 +207,14 @@ Recording Units” (level 4) for the coastal regions. Their main drawback
 is that they ignore country boundaries and must therefore be adapted
 (intersecting a MEOW with an EEZ) if a country-based system is wanted.
 
-<img src="./background-images/image4.emf"
+<img src="./background-images/image4.png"
 style="width:4.72222in;height:4.90764in" />
 
-> *Ecoregions are outlined with black lines* (reproduced from Spalding
-> et al. 2007)
+*Ecoregions are outlined with black lines* (reproduced from Spalding et al. 2007)
 
 Original shapefiles of the MEOWs are hosted on The Nature Conservancy
 website
-\<https://geospatial.tnc.org/maps/marine-ecoregions-of-the-world-meow\>.
+<https://geospatial.tnc.org/maps/marine-ecoregions-of-the-world-meow>.
 The outer boundaries are close to, but not coincident with the 200
 nautical miles of the outer boundary of EEZs. The inland boundaries of
 the shapefiles extend another 200 miles inland from the coastline - a
@@ -254,7 +253,7 @@ on a width of less than half the extension of the EEZ. Some articles on
 biogeographical topics (e.g. Hewitt et al., 2011, Swart et al. 2018,
 Castro et al. 2020) nevertheless used these IUCN Biogeographic zones.
 They are also used for the display of distributions in the invasive
-species database NEMESIS \<https://invasions.si.edu/nemesis/\> although
+species database NEMESIS <https://invasions.si.edu/nemesis/> although
 this is not explicitly stated. Drawbacks are the same as for the MEOW
 realms and ecoregions, with the aggravating circumstance that they are
 far less well-known.
@@ -269,7 +268,7 @@ Map illustrating the 18 IUCN bioregions defined by Kelleher et al.
 ### Bioregions2020
 
 There is an online-only initiative named “Bioregions2020”
-\<https://www.oneearth.org/bioregions-2020/\>, promoted by the NGO One
+<https://www.oneearth.org/bioregions-2020/>, promoted by the NGO One
 Earth, which claims working towards a unified (terrestrial/marine)
 scheme. One major benefit of this bioregional framework, according to
 its authors, is that it allows for the integration of all three types of
@@ -346,7 +345,7 @@ style="width:3.52778in;height:2.51875in" />
 
 The Marine bioregions designed by Watling & Gerken (1999) in the context
 of OBIS
-\<https://web.archive.org/web/20110611033825/https://marine.rutgers.edu/OBIS/biogeo/watling.htm\>are
+<https://web.archive.org/web/20110611033825/https://marine.rutgers.edu/OBIS/biogeo/watling.htm>are
 no longer visible on the Internet but follow basically the views of
 Briggs (1974) which are sensible.
 
@@ -439,7 +438,7 @@ Is... on their own? e.g. Azores, not “Portugal - Azores”?
 
 Europe comprises many countries with a large and/or complex maritime
 facade which requires splitting. The “Marine Region” placetype in
-\<marineregions.org\> (intersect of EEZ with IHO geounits) cannot be
+<marineregions.org> (intersect of EEZ with IHO geounits) cannot be
 used for Level 4 because many areas (e.g. Bay of Biscay, Balear Sea,
 Ligurian Sea) are severed from the major sea areas (North Atlantic,
 Western Mediterranean), resulting in awkward polygons.
@@ -475,7 +474,7 @@ scheme but the marine realm is complex. No less than 18 MEOW are defined
 in Australian waters (map 1 below). An alternative scheme is provided
 with the “Integrated Marine and Coastal Regionalisation of Australia”
 (IMCRA 4.0) 36 regions
-\<https://www.environment.gov.au/system/files/resources/2660e2d2-7623-459d-bcab-1110265d2c86/files/map1-pb.pdf\>,
+<https://www.environment.gov.au/system/files/resources/2660e2d2-7623-459d-bcab-1110265d2c86/files/map1-pb.pdf>,
 which departs from an EEZ-based scheme by considering separately the
 shallow coastal regions and the remainder of the EEZ. However, it has
 the advantage of being a coherent system whose outer boundaries are
@@ -483,7 +482,7 @@ exactly coincident with Australian EEZ. The designation of the six
 marine regions (map 4; North, Coral Sea, Temperate East, South-east,
 South-west and North-west) defined in support of the Environment
 Protection and Biodiversity Conservation Act (1999)
-\<https://soe.environment.gov.au/theme/marine-environment/topic/2016/marine-regions\>
+<https://soe.environment.gov.au/theme/marine-environment/topic/2016/marine-regions>
 was supposedly informed by the provincial bioregions identified as part
 of the IMCRA 4.0, but the boundaries are not coincident, the “transition
 zones” recognized in the IMCRA scheme are arbitrarily split and the
@@ -493,11 +492,11 @@ respect the contrast between temperate and tropical parts (map 5, from
 Gaylard et al. 2020).
 
 IMCRA regions are used for display in the Australian Faunal Directory
-\<https://biodiversity.org.au/afd/home\>, whereas Atlas of Living
-Australia \<https://www.ala.org.au/\> uses only point data for the
+<https://biodiversity.org.au/afd/home>, whereas Atlas of Living
+Australia <https://www.ala.org.au/> uses only point data for the
 display on species factsheets but uses the IMCRA regions as bounding box
 for search within an area
-\<http://regions.ala.org.au/#rt=States+and+territories\>
+<http://regions.ala.org.au/#rt=States+and+territories>
 
 A further reason for adopting them as Level 4 units is that, despite
 their number, their extension is similar to that of Level 4 units in
@@ -590,7 +589,7 @@ and Canada’s Marine Bioregions, do not seem to have wide acceptance, and
 I believe can be ignored. Here the best option for Canada and United
 States seems to be “trimmed MEOWs” (map 3) adjusted to the countries’
 jurisdictional waters. The molluscan database Malacolog
-\<http://www.malacolog.org\> uses a per-state scheme which s far too
+<http://www.malacolog.org> uses a per-state scheme which s far too
 detailed compared to the rest of basic units.
 
 ## Antarctica
@@ -640,7 +639,7 @@ https://doi.org/10.1111/j.1365-2699.2011.02613.x
 Brummitt R.K., Pando F., Hollis S., Brummitt N.A. (2001). World
 Geographic Scheme for Recording Plant Distributions Hunt Institute for
 Botanical Documentation, Carnegie Mellon University. pp i-xv, 1-102,
-maps 1-17. Available from \<http://rs.tdwg.org/wgsrpd/doc/data/\>,
+maps 1-17. Available from <http://rs.tdwg.org/wgsrpd/doc/data/>,
 accessed 02-2022
 
 Costello, M. J., Stocks, K., Zhang, Y., Grassle, J. F., & Fautin, D. G.
@@ -703,7 +702,7 @@ Generation of Earth's first-order biodiversity pattern. *Astrobiology*,
 Longhurst, A. 1998 Ecological Geography of the Sea. Academic Press, San
 Diego, xv + 542 pp., 22 plates.
 
-\<https://www.dropbox.com/s/bjobps7c95qgrtt/Longhurst_2007_Ecological_Geography_2\_ed.pdf?dl=0\>
+<https://www.dropbox.com/s/bjobps7c95qgrtt/Longhurst_2007_Ecological_Geography_2\_ed.pdf?dl=0>
 
 Sherman K (1991). The Large Marine Ecosystem concept: research and
 management strategy for living marine resources. *Ecological
@@ -712,14 +711,14 @@ Applications 1*: 350-360
 Spalding, M. D., Fox, H. E., Allen, G. R., Davidson, N., Ferdaña, Z. A.,
 Finlayson, M. A. X., ... Robertson, J. (2007). Marine ecoregions of the
 world: a bioregionalization of coastal and shelf areas. *BioScience*,
-57, 573-583. Available from \<https://doi.org/10.1641/B570707\>
+57, 573-583. Available from <https://doi.org/10.1641/B570707>
 
 Sutton, T. T., Clark, M. R., Dunn, D. C., Halpin, P. N., Rogers, A. D.,
 Guinotte, J., ... & Heino, M. (2017). A global biogeographic
 classification of the mesopelagic zone. *Deep Sea Research Part I:
 Oceanographic Research Papers*, 126, 85-102.
 
-\<https://www.dropbox.com/s/75i530bzt4epiap/Sutton_etal_2017_Mesopelagic_regions.pdf?dl=0\>
+<https://www.dropbox.com/s/75i530bzt4epiap/Sutton_etal_2017_Mesopelagic_regions.pdf?dl=0>
 
 Toonen, R. J., Bowen, B. W., Iacchei, M., & Briggs, J. C. (2016).
 Biogeography, Marine. In R.M. Kliman (Ed.), *Encyclopedia of
@@ -730,7 +729,7 @@ UNESCO (2009). Global Open Oceans and Deep Seabed (GOODS) –
 Biogeographic Classification. Paris, UNESCO-IOC, Technical Series 84, 87
 pp.
 
-\<https://www.dropbox.com/s/s2so9ooeqpxo3li/GOODS_Biogeographic_classification.pdf?dl=0\>
+<https://www.dropbox.com/s/s2so9ooeqpxo3li/GOODS_Biogeographic_classification.pdf?dl=0>
 
 Emery, K. O., Uchupi, E., Phillips, J., Bowin, C., & Mascle, J. (1975).
 Continental margin off western Africa: Angola to Sierra Leone. AAPG
@@ -740,10 +739,10 @@ Watling, L., Guinotte, J., Clark, M. R., & Smith, C. R. (2013). A
 proposed biogeography of the deep ocean floor. Progress in Oceanography,
 111:, 91-112.
 
-\<https://www.dropbox.com/s/q0wrc9t2b70euui/Watling_etal_2013_deep_biogeography.pdf?dl=0\>
+<https://www.dropbox.com/s/q0wrc9t2b70euui/Watling_etal_2013_deep_biogeography.pdf?dl=0>
 
 Watling L. & Gerken S. Coastal Marine Bioregions (1999)
-\<https://web.archive.org/web/19991010011810/http://marine.rutgers.edu:80/OBIS/biogeo/watling.htm\>
+<https://web.archive.org/web/19991010011810/http://marine.rutgers.edu:80/OBIS/biogeo/watling.htm>
 \[no longer available on the Rutgers website, last accessed there 15
 March 2005\]
 
