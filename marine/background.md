@@ -527,8 +527,10 @@ Ogasawara islands, but apparently Japanese authors also do so; the EEZ
 surrounding Okino-Tori-Shima is not included in the MEOW system and
 should be added.
 
-<img src="./background-images/image19.emf"
-style="width:3.04653in;height:2.28681in" /><img src="./background-images/image20.jpeg"
+<img src="./background-images/image19.png"
+style="width:3.04653in;height:2.28681in" />
+
+<img src="./background-images/image20.jpeg"
 style="width:3.20347in;height:2.20347in" />
 
 ### Indonesia
