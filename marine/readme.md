@@ -16,7 +16,7 @@ has been posted here for review and comment.  It describes the need and a propos
 
 ## Resources:
 
-  - Named marine regions -- expected in early 2023
-  - Geospatial representations of named regions (e.g., shape files) -- expected in mid 2023
+  - Named marine areas -- expected in early 2023
+  - Geospatial representations of named areas (e.g., shapefiles, kml files) -- expected in mid 2023
 
 
