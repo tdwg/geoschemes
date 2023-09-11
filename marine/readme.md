@@ -1,6 +1,6 @@
 # Introduction to the TDWG Marine Regions effort
 
-_Last updated: 5 Dec 2022_
+_Last updated: 11 Sep 2023_
 
 ## Primary contacts:
   - [Serge Gofas](mailto:sgofas@uma.es) - Universidad de Málaga
@@ -16,7 +16,7 @@ has been posted here for review and comment.  It describes the need and a propos
 
 ## Resources:
 
-  - Named marine areas -- expected in early 2023
-  - Geospatial representations of named areas (e.g., shapefiles, kml files) -- expected in mid 2023
+  - Named marine areas -- to be posted in the form of Excel spreadsheets (alteady posted for Atlantic Ocean) here and on the [Google Drive of the Marine interest group] (https://drive.google.com/drive/folders/1uwi264hKIMHZlLpfMY2wQyRvnXG_1TvY)
+  - Geospatial representations of named areas are not part of the proposed standard, kml files available on the Google Drive repository. 
 
 
