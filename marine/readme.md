@@ -12,7 +12,7 @@ _Last updated: 21 Oct 2023_
 
 A draft manuscript by Serge Gofas titled:
 
-**[A worldwide geographical scheme for recording the distribution of marine biota](./marine/background.md)**
+**[A worldwide geographical scheme for recording the distribution of marine biota](./background.md)**
 
 has been posted to describe the need and a proposed strategy for developing a scheme of marine regions comparable to the TDWG standard for terrestrial regions. The intention is to submit this manucript (authored by all participants of the task group) for publication after comments are incorporated and a consensus is reached on the goals and approach.
 
