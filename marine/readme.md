@@ -5,8 +5,8 @@ _Last updated: 21 Oct 2023_
 ## Primary contacts:
   - [Serge Gofas](mailto:sgofas@uma.es) - Universidad de Málaga
   - [Nicolas Bailly](mailto:n.bailly@q-quatics.org) - FishBase/SeaLifeBase, Q‑quatics, Philippines; Beaty Biodiversity Museum and Sea Around Us, University of British Columbia, Vancouver
-  - [Britt Lonneville](britt.lonneville@vliz.be) - Marine Regions, Flanders Marine Institute, Oostende, Belgium
-  - [Lennert Schepers](lennert.schepers@vliz.be) - Marine Regions, Flanders Marine Institute, Oostende, Belgium
+  - [Britt Lonneville](mailto:britt.lonneville@vliz.be) - Marine Regions, Flanders Marine Institute, Oostende, Belgium
+  - [Lennert Schepers](mailto:lennert.schepers@vliz.be) - Marine Regions, Flanders Marine Institute, Oostende, Belgium
 
 ## Background
 
