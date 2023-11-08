@@ -178,7 +178,7 @@ is more favourable; see Wu et al. 2013).
 <img src="./background-images/image3.png"
 style="width:4.32431in;height:2.16667in" />
 
-*Figure 2. The world EEZs*
+*Figure 3. The world EEZs*
 
 For many small or medium-sized coastal countries and territories, the
 corresponding EEZ provides a suitable polygon for the basic recording
