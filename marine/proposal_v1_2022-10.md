@@ -131,7 +131,7 @@ style="width:7in;height:3.7in" />
 >
 > Groupings can be made at Level 3. The most important is to respect the contrast between temperate and tropical parts (Poore & O’Hara 2007; Ahyong, 2017; Gary Poore, pers. comm. 2021) which, intersected with Level 1 oceans, would define four subdivisions. The suggested groups at Level 3 largely follow the IMCRA 4 scheme proper (tropical, temperate and cold) with Indian and Pacific parts separated, and remote islands (Cocos-Keeling, Christmas, Macquairie, Lord Howe, Norfolk) treated as separate units. 
 >
-> <img src="./proposal-images/igure14_IMCRA4_provincial_bioregions.png"
+> <img src="./proposal-images/Figure14_IMCRA4_provincial_bioregions.png"
 style="width:7in;height:4.8in" />
 >
 >*Figure 14. The IMCRA4 provincial bioregions (source: https://www.environment.gov.au)*
