@@ -1,4 +1,4 @@
-# A worldwide geographical scheme for recording the distribution of marine biota
+# A worldwide geographical scheme for recording the distribution of marine biota: background document
 
 ## Introduction
 
