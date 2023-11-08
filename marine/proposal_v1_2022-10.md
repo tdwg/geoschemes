@@ -96,11 +96,11 @@ style="width:5in;height:3.8in" />
 > Notes
 >
 > For West Africa, the proposal uses directly the subdivisions of Caballero-Herrera et al. (2022) for the regionalization of coastal West Africa. Most countries are represented as their EEZ, but for Mauritania, the temperate area around Cap Blanc is segregated; for Senegal the disjunct northern and southern (Casamance) parts are considered separately. The Angolan EEZ is subdivided to reflect the large amount of biota endemic to the southern part. A small part of the southernmost Angolan EEZ is also segregated to be consistent with the limits of temperate southern Africa MEOW Realm, supported by the data of Caballero-Herrera et al. (2022). Alternately, this could be ignored and te latter realm limited to Namaqua and Namibian EEZ. 
->
-><img src="./proposal-images/Figure10_Atlantic_S_temperate.png"
+
+<img src="./proposal-images/Figure10_Atlantic_S_temperate.png"
 style="width:5in;height:3.6in" />
->
->*Figure 10. The proposed Level 4 units for the coastal Atlantic SW temperate realm, the Atlantic subantarctic islands and the Atlantic SE temperate realm*
+
+*Figure 10. The proposed Level 4 units for the coastal Atlantic SW temperate realm, the Atlantic subantarctic islands and the Atlantic SE temperate realm*
 
 ### Indian Ocean Level 4 coastal units
 
@@ -131,7 +131,7 @@ style="width:7in;height:3.7in" />
 >
 > Groupings can be made at Level 3. The most important is to respect the contrast between temperate and tropical parts (Poore & O’Hara 2007; Ahyong, 2017; Gary Poore, pers. comm. 2021) which, intersected with Level 1 oceans, would define four subdivisions. The suggested groups at Level 3 largely follow the IMCRA 4 scheme proper (tropical, temperate and cold) with Indian and Pacific parts separated, and remote islands (Cocos-Keeling, Christmas, Macquairie, Lord Howe, Norfolk) treated as separate units. 
 >
-> <img src="./proposal-images/igure14_IMCRA4_provincial_bioregions.pngg"
+> <img src="./proposal-images/igure14_IMCRA4_provincial_bioregions.png"
 style="width:7in;height:4.8in" />
 >
 >*Figure 14. The IMCRA4 provincial bioregions (source: https://www.environment.gov.au)*
@@ -166,7 +166,7 @@ style="width:7in;height:3.15in" />
 > 
 > For Indonesia, the terrestrial scheme has basic recording units corresponding to the main islands or island groups. For the marine part, MEOWs (Figure 19), with adjustments to fit the Indonesian EEZ, seem a reasonable option. Eleven MEOWs account for the Indonesian seas, four of them pertaining mostly to the Indian Ocean, the remaining to marginal seas associated to the Pacific Ocean.  
 >
-><img src="./proposal-images/Figure19_Indonesian_MEOW"
+><img src="./proposal-images/Figure19_Indonesian_MEOW.png"
 style="width:6in;height:3in" />
 >
 >*Figure 19. The MEOW scheme for Indonesian waters, with Indonesian EEZ highlighted* 
