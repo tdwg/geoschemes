@@ -166,7 +166,7 @@ style="width:7in;height:3.15in" />
 > 
 > For Indonesia, the terrestrial scheme has basic recording units corresponding to the main islands or island groups. For the marine part, MEOWs (Figure 19), with adjustments to fit the Indonesian EEZ, seem a reasonable option. Eleven MEOWs account for the Indonesian seas, four of them pertaining mostly to the Indian Ocean, the remaining to marginal seas associated to the Pacific Ocean.  
 >
-><img src="./proposal-images/Figure19_Indonesian_MEOW.png"
+><img src="./proposal-images/Figure19_Indonesian_MEOW.jpg"
 style="width:6in;height:3in" />
 >
 >*Figure 19. The MEOW scheme for Indonesian waters, with Indonesian EEZ highlighted* 
