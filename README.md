@@ -1,6 +1,6 @@
 # Geographic Schemes
 
-A repository for developing a "World Geographic Scheme for Recording Species Distributions" (WGSRSD).
+This is the space of the TDWG Geographic Schemes Interest Group. As presented below, the aim of this IG is to develop a geographical scheme that includes standard names, abbreviations, and boundaries that are useful for managing occurrence data and species distributions. The group has created two task groups, namely the Marine Domain Geoscheme TG and the Terrestrial Domain Geoscheme TG, to develop an updated “World Geographic Scheme for Recording Species Distributions” (WGSRSD). These task groups are convened by the same people as the IG and work independently but highly coordinated.
 
 # Convenors
 #### [Francisco Pando](mailto:pando@rjb.csic.es) - Real Jardín Botánico-CSIC, Madrid
