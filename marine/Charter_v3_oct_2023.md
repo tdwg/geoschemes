@@ -3,14 +3,14 @@
 
 ## Conveners
 
-- Nicolas Bailly - FishBase/SeaLifeBase, Q‑quatics, Philippines; Beaty Biodiversity Museum and Sea Around Us, University of British Columbia, Vancouver, Canada
-- Serge Gofas - Universidad de Málaga, Málaga, Spain
-- Britt Lonneville - Marine Regions, Flanders Marine Institute, Oostende, Belgium
-- Lennert Schepers - Marine Regions, Flanders Marine Institute, Oostende, Belgium
+- [Nicolas Bailly](mailto:n.bailly@q-quatics.org) -  FishBase/SeaLifeBase, Q‑quatics, Philippines; Beaty Biodiversity Museum and Sea Around Us, University of British Columbia, Vancouver, Canada
+- [Serge Gofas](sgofas@uma.es) - Universidad de Málaga, Málaga, Spain
+- [Britt Lonneville](mailto:britt.lonneville@vliz.be) - Marine Regions, Flanders Marine Institute, Oostende, Belgium
+- [Lennert Schepers](mailto:lennert.schepers@vliz.be) - Marine Regions, Flanders Marine Institute, Oostende, Belgium
 
 ## Core member
 
-- Visotheary Ung - ISYEB, CNRS/Muséum national d’Histoire Naturelle, Paris, France
+- [Visotheary Ung](mailto:visotheary.ung@mnhn.fr) - ISYEB, CNRS/Muséum national d’Histoire Naturelle, Paris, France
 
 ## Motivation
 
