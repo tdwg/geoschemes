@@ -1,4 +1,4 @@
-# A worldwide geographical scheme for recording the distribution of marine biota: First draft (October 2023) of the proposal.
+# A worldwide geographical scheme for recording the distribution of marine biota: First draft (October 2023) of the proposal (updated April 2024 for High Seas).
 
 The proposal for a marine scheme features five Level 1 units, 26 Level-2 units and 430 coastal Level 4 units (compare to 9 Level 1, 52 Level 2 and 609 Level 4 in the current terrestrial scheme). Level 3 units and the Level 4 units for High Seas are yet to be defined. This draft proposal is here posted with the purpose of gathering feedback. It is summarized on the following maps, organized according to the Level 1 and Level 2 units in which they are comprised, followed by notes explaining some of the options taken. Level 4 units for the coastal area (i.e. jurisdictional waters to the 200 NM boundary) are detailed in five Excel files posed on this site (one Excel file for each Level 1 ocean, then one tab for each Level 2 region in that ocean).
 
@@ -190,6 +190,51 @@ style="width:6in;height:3.5in" />
 
 *Figure 22. The proposed Level 4 units for the coastal Southern Ocean*
 
+### Level 4 units for High Seas 
+In the proposed scheme, the high seas (beyond the 200 NM limit) of each ocean are treated as Level 2 units, one within each major ocean. For further subdivision in level 4 , we propose to take into account the regionalization of the deep-sea floor (Watling et al., 2013), which combines depth thresholds (300–800 m for upper bathyal, 800–3500 m for lower bathyal, and 3500–6500 m for the abyssal) and mostly abiotic features of the sea water. This work is a qualified version of the earlier GOODS proposal (UNESCO, 2009). The hadal zone is defined as depths beyond 6500 m in deep-sea trenches, but those are close enough to the shorelines to be  mostly comprised in the national EEZs, and need not be considered here. 
+
+The option taken is to use the 3500 m isobath to distinguish between basins and elevated seafloor features, then to single out discrete, named undersea features (e.g. Mid Atlantic Ridge, Rio Grande Rise, Walwis ridge, Ninetyeast Ridge..., Guyanas Basin, Angola Basin) as Level 4 units. In the Atlantic and Indian Oceans, the subdivision in “provinces” by Watling et al. (2013) is too coarse for the purpose of Level 4 units (four provinces in the Atlantic, only two for the Indian Ocean) and requires further subdivision. In the Atlantic and Indian Oceans, there are well-defined seafloor elevations such as the Mid Atlantic Ridge, Rio Grande Rise and others, of which the names are largely known to the scientific community. The abyssal depth interval below 3500 m covers the bulk (64.5% according to Watling et al. 1993) of the deep sea floor and is conveniently subdivided into discrete basins, the names of which are widely used in literature on deep sea fauna (e.g. Allen & Sanders, 1996). In the Pacific Ocean, the immense scattering of islets and guyots makes that named features cannot account for most of the deep-sea floor. Conversely, Watling et al. (2013) provide a more detailed subdivision (BY5-BY10 and BY12) which provide a sensible base for the Level 4 units and are here used, with some adjustments. 
+
+In the Southern Ocean, the extension of High Seas is so limited and homogeneous that we consider sufficient two Level 4 subdivisions, one bathyal and one abyssal. 
+
+Here, the zone numbers of Watling et al. are appended to the proposed Level 4 High Seas units, but adjustments were made where small parts of a single basin of feature extend to an adjacent zone (cases in Mid Atlantic ridge north of the Azores, where a small part of the mostly AB2 feature extend into AB4, the mostly AB11 East Pacific basin where a small easternmost part belongs to AB9 and a small southern part belongs to AB10; the mostly AB11 part of the NE Pacific basin extends into AB9). 
+We acknowledge that the proposed subdivision of Level 4 units is directed to the benthic fauna, and is inadequate to account for the water column, where oceanic water masses should have guided the subdivision. However, this is unavoidable unless the system allows for parallel sets of subdivisions, in which case alternative sets could be based on regionalization of the pelagic realm (e.g. Longhurst, 1998; Sutton et al., 2017). 
+
+<img src="./proposal-images/Figure23_Level4_Atlantic_bathyal_north.png"
+style="width:5in;height:3.8in" />
+
+*Figure 23. The proposed Level 4 units for the bathyal level of High Seas in the North Atlantic Ocean*
+
+<img src="./proposal-images/Figure24_Level4_Atlantic_bathyal_south.png"
+style="width:5in;height:3.8in" />
+
+Figure 24. The proposed Level 4 units for the bathyal level of High Seas in the South Atlantic Ocean. The remaining parts (corresponding to abyssal) of the High Seas are shown in light blue.
+
+<img src="./proposal-images/Figure25_Level4_Atlantic_abyssal.png"
+style="width:5in;height:3.8in" />
+
+Figure 25. The proposed Level 4 units for the abyssal level of High Seas in the Atlantic Ocean
+
+<img src="./proposal-images/Figure26_Level4_Indian_bathyal.png"
+style="width:5in;height:3.8in" />
+
+Figure 26. The proposed Level 4 units for the bathyal level of High Seas in the Indian Ocean. The remaining parts (corresponding to abyssal) of the High Seas are shown in light blue.
+
+<img src="./proposal-images/Figure27_Level4_Indian_abyssal.png"
+style="width:5in;height:3.8in" />
+
+Figure 27. The proposed Level 4 units for the abyssal level of High Seas in the Indian Ocean.
+
+<img src="./proposal-images/Figure28_Level4_Pacific_bathyal.png"
+style="width:5in;height:3.8in" />
+
+Figure 28. The proposed Level 4 units for the bathyal level of High Seas in the Pacific Ocean. The remaining parts (corresponding to abyssal) of the High Seas are shown in light blue.
+
+<img src="./proposal-images/Figure29_Level4_Pacific_abyssal.png"
+style="width:5in;height:3.8in" />
+
+Figure 29. The proposed Level 4 units for the abyssal level of High Seas in the Pacific Ocean. 
+
 ## Additional notes
 
 ### Adjustment of limits of Level 1 unis departing from the IHO scheme
@@ -213,6 +258,18 @@ Shapefiles used to visualize proposed Level 4 units were derived from the Flande
 The [MEOW shapefiles from TNC](https://www.arcgis.com/sharing/rest/content/items/903c3ae05b264c00a3b5e58a4561b7e6/data) were used only as a template for placing the MEOW limits when those are used to subdivide large countries. Reasons are that (1) their inner limit is placed way inland, and must be trimmed against a shapefile of the baseline (2) the outer limit is not 200 nm but an approximate contour and (3) terms of use include the commitment that “... you are using the data for non-commercial purposes, and you don't alter them in any way.” whereas we adjust them to EEZs.
 
 For Europe (MSFD subregions) and Australia (IMCRA regions), original shapefiles are available from those respective sources.
+
+Shapefiles used to visualize proposed High Seas units beyond Level 2 units were derived from the bathyal and abyssal provinces of Watling et al. (2013), available on the MarineRegions website (placetypes “Abyssal provinces” AB1 to AB13 (AB14 ignored because entirely comprised in EEZs) and “Lower Bathyal provinces” BY1 to BY12). Processing for obtaining shapefiles to visualize the proposed Level 4 recording units involved the following steps: 
+(1) Intersect Abyssal provinces with the Level 2 “High Seas” unit of each ocean in order to exclude areas comprised in EEZs
+(2) Erase Abyssal provinces from the Level 2 “High Seas” unit of each ocean, in order to obtain shapefiles representing areas less than 3500 m depth, not only the 800-3500 interval.
+(3) When needed due to very complex topography, simplify those trimmed shapefiles using the “point remove” algorithm in ArcGis (minimum area 10000 m2, tolerance 100 metres). 
+Following these first steps, two sets of intermediate shapefiles spanning only high seas (one “Bathyal” down to 3500 m and one “Abyssal” below that depth) were obtained for each Level 1 unit. 
+
+Further subdivision involved the following steps:
+(4) Create a set of template shapefiles delimiting the major basins in the Abyssal 
+(5) Intersect those templates with the simplified “Abyssal” shapefile to obtain the Level 4 units corresponding to abyssal basins
+(6) create a set of template shapefiles delineating the major features (segments of mid-oceanic ridges and other named seafloor elevations). 
+(7) Intersect those templates with the simplified “Lower bathyal” shapefile to obtain the Level 4 units corresponding to seafloor elevation features.
 
 ### Syntax for geounits names
 
@@ -238,6 +295,8 @@ The mention of EEZ in the proposed name of marine geounits is needed because oth
 
 Ahyong S. 2017. Biogeography of Australian Marine Invertebrates. pp. 81-99 in: Ebach M.C. (Ed.) Handbook of Australasian Biogeography. CRC Press, Boca Raton  <https://doi.org/10.1201/9781315373096>
 
+Allen, J.A., Sanders, H.L. (1996). The zoogeography, diversity and origin of the deepsea protobranch bivalves of the Atlantic: the epilogue. Progress in Oceanography 38, 95–153 <https://doi.org/10.1016/S0079-6611(96)00011-0>
+
 Amano K. (2004). Biogeography and the Pleistocene extinction of neogastropods in the Japan Sea. Palaeogeography, Palaeoclimatology, Palaeoecology, 202: 245-252. <https://doi.org/10.1016/S0031-0182(03)00637-0>
 
 Caballero‐Herrera J.A., Olivero J., von Cosel R. & Gofas S. (2022). An analytically derived delineation of the West African Coastal Province based on bivalves. Diversity and Distributions, 28(12), 2791-2805. <https://doi.org/10.1111/ddi.13454>
@@ -257,11 +316,18 @@ Griffiths H.J., Barnes, D. K. & Linse K. 2009. Towards a generalized biogeograph
 
 Jensen H.M., Panagiotidis P. & Reker J. (2017). Delineation of the MSFD Article 4 marine regions and subregions Version 1.0. Technical document of the European Environmental Agency, 21 pp. Available from  <https://web.archive.org/web/20170605025903/https://www.eea.europa.eu/data-and-maps/data/msfd-regions-and-subregions/technical-document/pdf/download>
 
-Poore G.C.B., and O'Hara T.D. (2007). Marine biogeography and biodiversity of Australia. Pp. 177-198 in: Connell, S.D., and Gillanders, B.M. (eds), Marine Ecology. Oxford University Press: South Melbourne <https://doi.org/10.1201/9781315373096>
+Longhurst, A. (1998) Ecological Geography of the Sea. Academic Press, San Diego, xv + 542 pp., 22 plates.
+
+Poore G.C.B. & O'Hara T.D. (2007). Marine biogeography and biodiversity of Australia. Pp. 177-198 in: Connell, S.D., and Gillanders, B.M. (eds), Marine Ecology. Oxford University Press: South Melbourne <https://doi.org/10.1201/9781315373096>
 
 Relini G. (2008).  Introduzione. pp.  v-xi, in: Relini G: (Ed.) Checklist della flora e della fauna dei mari italiani, parte I. Biologia Marina Mediterranea, 15 (suppl.) <https://www.sibm.it/public/book-files/SIBM-Biologia-Marina-Mediterranea-15-Suppl-1---2008-ITAENG--Num-.pdf>
 
 Rosenberg G. (2009) Malacolog 4.1.1. A database of Western Atlantic Marine Mollusca. <http:// www. malacolog. org/>
 
-Spalding, M. D., Fox, H. E., Allen, G. R., Davidson, N., Ferdaña, Z. A., Finlayson, M. A. X., ... Robertson, J. (2007). Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. BioScience, 57: 573-583. <https://doi.org/10.1641/B570707>
+Spalding, M. D., Fox, H. E., Allen, G. R., Davidson, N., Ferdaña, Z. A., Finlayson, M. A. X., ... & Robertson, J. (2007). Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. BioScience, 57: 573-583. <https://doi.org/10.1641/B570707>
 
+Sutton, T. T., Clark, M. R., Dunn, D. C., Halpin, P. N., Rogers, A. D., Guinotte, J., ... & Heino, M. (2017). A global biogeographic classification of the mesopelagic zone. Deep Sea Research Part I: Oceanographic Research Papers, 126, 85-102. < https://doi.org/10.1016/j.dsr.2017.05.006>
+
+UNESCO (2009). Global Open Oceans and Deep Seabed (GOODS) – Biogeographic Classification. Paris, UNESCO-IOC, Technical Series 84, 87 pp.
+
+Watling, L., Guinotte, J., Clark, M. R., & Smith, C. R. (2013). A proposed biogeography of the deep ocean floor. Progress in Oceanography, 111, 91-112. < https://doi.org/10.1016/j.pocean.2012.11.003>
