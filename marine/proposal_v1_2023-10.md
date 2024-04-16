@@ -201,37 +201,37 @@ Here, the zone numbers of Watling et al. are appended to the proposed Level 4 Hi
 We acknowledge that the proposed subdivision of Level 4 units is directed to the benthic fauna, and is inadequate to account for the water column, where oceanic water masses should have guided the subdivision. However, this is unavoidable unless the system allows for parallel sets of subdivisions, in which case alternative sets could be based on regionalization of the pelagic realm (e.g. Longhurst, 1998; Sutton et al., 2017). 
 
 <img src="./proposal-images/Figure23_Level4_Atlantic_bathyal_north.png"
-style="width:5in;height:3.8in" />
+style="width:7in;height:3.5in" />
 
 *Figure 23. The proposed Level 4 units for the bathyal level of High Seas in the North Atlantic Ocean*
 
 <img src="./proposal-images/Figure24_Level4_Atlantic_bathyal_south.png"
-style="width:5in;height:3.8in" />
+style="width:7in;height:3.5in" />
 
 Figure 24. The proposed Level 4 units for the bathyal level of High Seas in the South Atlantic Ocean. The remaining parts (corresponding to abyssal) of the High Seas are shown in light blue.
 
 <img src="./proposal-images/Figure25_Level4_Atlantic_abyssal.png"
-style="width:5in;height:3.8in" />
+style="width:6in;height:4in" />
 
 Figure 25. The proposed Level 4 units for the abyssal level of High Seas in the Atlantic Ocean
 
 <img src="./proposal-images/Figure26_Level4_Indian_bathyal.png"
-style="width:5in;height:3.8in" />
+style="width:6in;height:4.8in" />
 
 Figure 26. The proposed Level 4 units for the bathyal level of High Seas in the Indian Ocean. The remaining parts (corresponding to abyssal) of the High Seas are shown in light blue.
 
 <img src="./proposal-images/Figure27_Level4_Indian_abyssal.png"
-style="width:5in;height:3.8in" />
+style="width:6in;height:4.8in" />
 
 Figure 27. The proposed Level 4 units for the abyssal level of High Seas in the Indian Ocean.
 
 <img src="./proposal-images/Figure28_Level4_Pacific_bathyal.png"
-style="width:5in;height:3.8in" />
+style="width:7in;height:5.6in" />
 
 Figure 28. The proposed Level 4 units for the bathyal level of High Seas in the Pacific Ocean. The remaining parts (corresponding to abyssal) of the High Seas are shown in light blue.
 
 <img src="./proposal-images/Figure29_Level4_Pacific_abyssal.png"
-style="width:5in;height:3.8in" />
+style="width:7in;height:5.6in" />
 
 Figure 29. The proposed Level 4 units for the abyssal level of High Seas in the Pacific Ocean. 
 
