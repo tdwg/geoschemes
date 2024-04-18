@@ -208,36 +208,36 @@ style="width:7in;height:3.5in" />
 <img src="./proposal-images/Figure24_Level4_Atlantic_bathyal_south.png"
 style="width:7in;height:3.5in" />
 
-Figure 24. The proposed Level 4 units for the bathyal level of High Seas in the South Atlantic Ocean. The remaining parts (corresponding to abyssal) of the High Seas are shown in light blue.
+*Figure 24. The proposed Level 4 units for the bathyal level of High Seas in the South Atlantic Ocean. The remaining parts (corresponding to abyssal) of the High Seas are shown in light blue.*
 
 <img src="./proposal-images/Figure25_Level4_Atlantic_abyssal.png"
 style="width:6in;height:4in" />
 
-Figure 25. The proposed Level 4 units for the abyssal level of High Seas in the Atlantic Ocean
+*Figure 25. The proposed Level 4 units for the abyssal level of High Seas in the Atlantic Ocean*
 
 <img src="./proposal-images/Figure26_Level4_Indian_bathyal.png"
 style="width:6in;height:4.8in" />
 
-Figure 26. The proposed Level 4 units for the bathyal level of High Seas in the Indian Ocean. The remaining parts (corresponding to abyssal) of the High Seas are shown in light blue.
+*Figure 26. The proposed Level 4 units for the bathyal level of High Seas in the Indian Ocean. The remaining parts (corresponding to abyssal) of the High Seas are shown in light blue.*
 
 <img src="./proposal-images/Figure27_Level4_Indian_abyssal.png"
 style="width:6in;height:4.8in" />
 
-Figure 27. The proposed Level 4 units for the abyssal level of High Seas in the Indian Ocean.
+*Figure 27. The proposed Level 4 units for the abyssal level of High Seas in the Indian Ocean.*
 
 <img src="./proposal-images/Figure28_Level4_Pacific_bathyal.png"
 style="width:7in;height:5.6in" />
 
-Figure 28. The proposed Level 4 units for the bathyal level of High Seas in the Pacific Ocean. The remaining parts (corresponding to abyssal) of the High Seas are shown in light blue.
+*Figure 28. The proposed Level 4 units for the bathyal level of High Seas in the Pacific Ocean. The remaining parts (corresponding to abyssal) of the High Seas are shown in light blue.*
 
 <img src="./proposal-images/Figure29_Level4_Pacific_abyssal.png"
 style="width:7in;height:5.6in" />
 
-Figure 29. The proposed Level 4 units for the abyssal level of High Seas in the Pacific Ocean. 
+*Figure 29. The proposed Level 4 units for the abyssal level of High Seas in the Pacific Ocean.*
 
 ## Additional notes
 
-### Adjustment of limits of Level 1 unis departing from the IHO scheme
+### Adjustment of limits of Level 1 units departing from the IHO scheme
 
 Arctic/Atlantic: Sea areas corresponding to coastal MEOWs 3 (East Greenland Shelf), 4 (West Greenland Shelf), 5 (Northern Grand Banks–Southern Labrador) and 6 (Northern Labrador) to be included in Arctic Level 1 unit, to be consistent with Level 2 “Arctic” MEOW realm which includes those ecoregions. Norwegian EEZ, United Kingdom EEZ and Faeroe Islands EEZ left out, to be consistent with Level 2 “Temperate North Atlantic” MEOW realm 
 
