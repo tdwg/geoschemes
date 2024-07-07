@@ -1,12 +1,12 @@
 # A worldwide geographical scheme for recording the distribution of marine biota: First draft (October 2023) of the proposal (updated April 2024 for High Seas).
 
-The proposal for a marine scheme features five Level 1 units, 26 Level-2 units and 430 coastal Level 4 units (compare to 9 Level 1, 52 Level 2 and 609 Level 4 in the current terrestrial scheme). Level 3 units and the Level 4 units for High Seas are yet to be defined. This draft proposal is here posted with the purpose of gathering feedback. It is summarized on the following maps, organized according to the Level 1 and Level 2 units in which they are comprised, followed by notes explaining some of the options taken. Level 4 units for the coastal area (i.e. jurisdictional waters to the 200 NM boundary) are detailed in five Excel files posed on this site (one Excel file for each Level 1 ocean, then one tab for each Level 2 region in that ocean).
+The proposal for a marine scheme features five Level 1 units, 26 Level-2 units and 529 Level 4 units (compare to 9 Level 1, 52 Level 2 and 609 Level 4 in the current terrestrial scheme). This draft proposal is here posted with the purpose of gathering feedback. It is summarized on the following maps, organized according to the Level 1 and Level 2 units in which they are comprised, followed by notes explaining some of the options taken. Level 4 units for the coastal area (i.e. jurisdictional waters to the 200 NM boundary) are detailed in five Excel files posed on this site (one Excel file for each Level 1 ocean, then one tab for each Level 2 region in that ocean).
 
 ## Higher level units 
 
 ### Level 1 units
 
-Level 1 units are the five oceans. Marginal seas (which are treated in the IHO scheme with same rank as the major oceans) are appended to the major oceans following the [boundaries set by NOAA](https://www.ncei.noaa.gov/sites/g/files/anmtlf171/files/2023-01/World%20Ocean%20Volumes.pdf)  (Eakins & Sharman, 2010, see also background document) although other sources (e.g. Wikipedia) show slightly different groupings. Limits of proposed Level 1 units are then adjusted to the nearest Level 4 unit, therefore departing from IHO boundaries (see at the end of this document for the detail of these adjustments). Taking into account that the terrestrial Level 1 units used up single-digit codes 1 thru 9, the code for marine Level 1 units is here proposed as single-letter. 
+Level 1 units are the five oceans. Marginal seas (which are treated in the IHO scheme with same rank as the major oceans) are appended to the major oceans following the [boundaries set by NOAA](https://www.ncei.noaa.gov/sites/g/files/anmtlf171/files/2023-01/World%20Ocean%20Volumes.pdf)  (Eakins & Sharman, 2010, see also background document) although other sources (e.g. Wikipedia) show slightly different groupings. Limits of proposed Level 1 units are then adjusted to the nearest Level 4 unit, therefore departing from IHO boundaries (see Figure 1 for the detail of these adjustments). Taking into account that the terrestrial Level 1 units used up single-digit codes 1 thru 9, the code for marine Level 1 units is here proposed as single-letter. 
 
 <img src="./proposal-images/Figure1_Level1_World.png"
 style="width:7in;height:3.5in" />
@@ -15,7 +15,7 @@ style="width:7in;height:3.5in" />
 
 ### Level 2 units
 
-Level 2 units in the coastal area correspond to the realms of Spalding et al. (2007) Marine Ecoregions of the World, defined therein as “very large regions (...) across which biotas are internally coherent at higher taxonomic levels, as a result of a shared and unique evolutionary history”. Their seaward limit is adjusted to the 200 NM, and also adjusted to the nearest Level 4 unit. Those realms which, in the MEOW system, straddle the limits of Level 1 oceans (the case of Temperate South America, Temperate Southern Africa, Temperate Australasia, and Subantarctic Islands), are subdivided accordingly. Eastern and Western parts of Temperate Northern Atlantic and Tropical Atlantic are also distinguished at Level 2. High Seas constitute an additional Level 2 unit in each Level 1 ocean. Codes for Level 2 regions will use a two-character format (the ocean’s letter and one digit).
+Level 2 units in the coastal area correspond to the realms of Spalding et al. (2007) Marine Ecoregions of the World, defined therein as “very large regions (...) across which biotas are internally coherent at higher taxonomic levels, as a result of a shared and unique evolutionary history”. Their seaward limit is adjusted to the 200 NM, and also adjusted to the nearest Level 4 unit. Those realms which, in the MEOW system, straddle the limits of Level 1 oceans (the case of Temperate South America, Temperate Southern Africa, Temperate Australasia, and Subantarctic Islands), are subdivided accordingly. Eastern and Western parts of Temperate Northern Atlantic and Tropical Atlantic are also distinguished at Level 2. High Seas constitute an additional Level 2 unit in each Level 1 ocean. Codes for Level 2 regions will use a two-character format (the Ocean’s letter and one digit).
 
 <img src="./proposal-images/Figure2_Level2_World.png"
 style="width:7in;height:3.5in" />
@@ -24,7 +24,7 @@ style="width:7in;height:3.5in" />
 
 ### Level 3 units
 
-Level 3 units are not yet established. They are to be identical to Level 4 when there is no obvious grouping. Examples of obvious groupings are the lesser Antilles or the "provincial bioregions" among Australian IMCRA regions.
+Level 3 units are identical to Level 4 when there is no obvious grouping. Examples of obvious groupings are the lesser Antilles or the intersection with MEOW realms among Australian IMCRA regions. In large countries with several Level 4 units, some may be grouped at Level 3 but this is not a rule (e.g. Russia, where Level 4 units in the Far east, the Arctic, the Baltic Sea and the Black sea correspond to four different Level 3 units).
 
 ## Level 4: Basic recording units
 
@@ -290,6 +290,16 @@ Country – MSFD subzone where applicable in Europe (omit “EEZ” in this case
 Australia – IMCRA provincial bioregion where applicable
 
 The mention of EEZ in the proposed name of marine geounits is needed because otherwise, there is confusion with terrestrial geounits with the same name. It may be omitted is the part is explicitly a sea area (e.g. Saudi Arabia – Red Sea)
+
+The naming of high seas features involves no country name. Taking into account that the regionalization of Watling et al. 2013 has been instrumental in the design of units, we use their sectors (BY1 to BY14 for areas less than 3500 m deep, see above, and AB1 to AB14 for those deeper than 3500 m) as the first component of the name of high seas units, followed by the name of the undersea feature comprised in that unit e.g. “AB4 – Angola Basin”, “BY13 – Rio Grande Rise”.
+
+### Codes for the marine units
+
+Taking into account that the marine proposal goes in the footsteps of WGSRPD, a similar approach must be maintained to assign them a code with the same format. In the WGSRPD, Level 1 units are identified by a one-digit number (1 to 9), Level 2 regions by a two-digit number (10 to 91), Level 3 units by a three-letter code (not related to the two-letter ISO-code of the country), and Level 4 units by a five-letter code in the format XXX-YY where XXX is the Level 3 code and YY an identifier of the level 4 unit. Where Level 3 and Level 4 are identical (the case of 294 out of 614 Level 4 units in WGSRPD i.e. nearly half), this is denoted by a Level 4 code in the format XXX-OO (the double letter ‘O’). In WGSRPD, Level 4 parts of large countries (e.g. Russia), or not so large but situated at crossroads (e.g. Egypt) may belong to different Level 3, Level 2 and Level 1 units, and this also happens in the marine system (e.g. Egypt, Costa Rica). The proposed codes have now (July 2024) been added to the Ecxel files in which the Level 4 units are detailed.
+
+Developing a set of similar codes for the marine part poses some challenges in order to avoid homonymy with terrestrial codes. Taking into account that the system is alphanumerical and that numbers in the Level 1 and Level 2 are already used up by the terrestrial units, we are compelled to use letters for marine Level 1 units (we propose R for Arctic, A for Atlantic, I for Indian, P for Pacific, and S for Southern Ocean), then one digit appended to those letters (A1, A2, etc..) for the marine Level 2 units. At Level 3, codes must all be distinct from the WGSRPD codes because the Level 2 and Level 1 units above in the hierarchy are different. We propose that the Level 3 code be composed of two letters (by default, the ISO code of the country if appropriate) and one digit, the presence of that digit unambiguously denoting a marine code (three letters in all WGSRPD codes). The digit is ‘1’ by default, but must differ if more than one unit is defined for the country or if the letters are already used in another Level 3 unit. At Level 4, the convention of using the suffix ‘-OO’ is conserved, otherwise diagnostic letters are used. 
+
+For High Seas, it would have been tempting to use the Watling et al. (2013) provinces as codes for Level 3, but unfortunately this is not practicable because there are 14 provinces in the bathyal and 14 more in the abyssal, forcing some codes into four characters instead of three. Renaming them as B01 to B14 and A01 to A14 would help, but still this would not account for the fact that some Watling provinces straddle more than one oceaan (Level 1 unit), therefore must be subdivided in Level 3. Taking into account these constraints, we propose Level 3 codes for the deep sea using the two characters of the Level 2 in which they are comprised, and the third character a letter to discriminate the 28 provinces of Watling et al. (1993). 
 
 ## References
 
