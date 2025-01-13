@@ -239,7 +239,7 @@ style="width:7in;height:5.6in" />
 
 *Figure 30. The proposed Level 4 units for the abyssal level of High Seas in the Pacific Ocean.*
 
-src="./proposal-images/Figure31_Antarctic_High_Seas.png"
+<img src="./proposal-images/Figure31_Antarctic_High_Seas.png"
 style="width:6in;height:3.4in" />
 
 *Figure 31. The proposed Level 4 units for the High Seas in the Southern Ocean* 
