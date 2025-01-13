@@ -116,7 +116,7 @@ style="width:7in;height:3.5in" />
 > The sea surrounding Madagascar is large and diverse so as to command subdivisions. Nevertheless the MEOW subdivision is inadequate because it does not single out the “Deep South” which harbours very distinctive biota (Philippe Bouchet pers. comm. 2023). Therefore, the proposed Level 4 units follow Cooke et al. (2023)
  
 <img src="./proposal-images/Figure12_Indian_Central_IP.png"
-style="width:5in;height:2.5in" />
+style="width:6in;height:3in" />
 
 *Figure 12. The proposed Level 4 units for the Indian Ocean part of the coastal Central IP tropical realm*
  
