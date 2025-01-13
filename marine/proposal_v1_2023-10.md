@@ -180,7 +180,7 @@ style="width:7in;height:3.86in" />
 style="width:6in;height:3.4in" />
 
 *Figure 21. The proposed Level 4 units for the coastal Eastern Pacific tropical and temperate realms* <img 
-                                                                                                       src="./proposal-images/Figure22_Pacific_SW_temperate"
+                                                                                                       src="./proposal-images/Figure22_Pacific_SW_temperate.png"
 style="width:6in;height:3.4in" />
 
 *Figure 22. The proposed Level 4 units for the temperate Western Pacific and Subantarctic Islands* 
