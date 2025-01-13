@@ -298,19 +298,19 @@ Admittedly, those codes, be they WGSRPD or Geoschemes marine, are not user-frien
 
 Decisions are to be made on the treatment of overlapping claims resulting from unsettled borders. Currently these (e.g. France/Spain in Bay of Biscay, Spain/Portugal in the Selvagem islands) are appended to both adjacent geounits which therefore overlap, not treated as separate units (issue to be confirmed – this generates issues with summing up surfaces). Overlapping claims over an entire territory are treated as a separate geounit (e.g. the Falkland Islands). 
 
-Basic recording units are therefore named according to this pattern:
+Basic recording units are therefore labelled according to this pattern:
 
 Country – EEZ (complete EEZ of the country; maybe we should use instead “Jurisdictional waters” when no EEZ is declared (Mediterranean) or just a factual “200 NM”)
 
 Country – Region EEZ or Country – IHOarea EEZ when a large or complex EEZ has been subdivided according to IHO (i.e. placetype “Marine Region”), MEOW or other scheme. 
 
-Country – MSFD subzone where applicable in Europe (omit “EEZ” in this case, the names involve sea areas)
+Country – MSFD subzone where applicable in Europe (omit “EEZ” in this case, the labels involve sea areas)
 
 Australia – IMCRA provincial bioregion where applicable
 
-The mention of “EEZ” in the proposed name of marine geounits is needed because otherwise, there is confusion with terrestrial geounits with the same name. It may be omitted is the part is explicitly a sea area (e.g. Saudi Arabia – Red Sea)
+The mention of “EEZ” in the proposed label of marine geounits is needed because otherwise, there is confusion with terrestrial geounits of the same country. It may be omitted is the part is explicitly a sea area (e.g. Saudi Arabia – Red Sea)
 
-The labelling of high seas features involves no country name. Taking into account that the regionalization of Watling et al. 2013 has been instrumental in the design of units, we use their sectors (BY1 to BY14 for areas less than 3500 m deep, see above, and AB1 to AB14 for those deeper than 3500 m) as the first component of the name of high seas units, followed by the name of the undersea feature comprised in that unit e.g. “AB4 – Angola Basin”, “BY13 – Rio Grande Rise”.
+The labelling of high seas features involves no country name. Taking into account that the regionalization of Watling et al. 2013 has been instrumental in the design of units, we use their sectors (BY1 to BY14 for areas less than 3500 m deep, see above, and AB1 to AB14 for those deeper than 3500 m) as the first component of the label of high seas units, followed by the name of the undersea feature comprised in that unit e.g. “AB4 – Angola Basin”, “BY13 – Rio Grande Rise”.
 
 ## References
 
