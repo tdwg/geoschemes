@@ -9,6 +9,7 @@ Core members
 - Gloria Martinez-Sagarra - GBIF-ES, Madrid, Spain
 - Lourdes Rollón -Consultant, Madrid, Spain
 - Visotheary Ung - ISYEB, CNRS/Muséum national d'Histoire Naturelle, Paris, France
+- Craig Hilton-Taylor - Red List Unit, IUCN, United Kingdom  
 
 Motivation
 
