@@ -1,6 +1,9 @@
 # A worldwide geographical scheme for recording the distribution of marine biota: Revised draft (December 2024) of the proposal.
 
-The proposal for a marine scheme features five Level 1 units, 26 Level-2 units and 536 Level 4 units (compare to 9 Level 1, 52 Level 2 and 609 Level 4 in the current terrestrial scheme). This draft proposal is here posted with the purpose of gathering feedback. It is summarized on the following maps, organized according to the Level 1 and Level 2 units in which they are comprised, followed by notes explaining some of the options taken. All units from Level 4 to Level 1 are detailed in the Excel file Geoschemes_marine_proposal_12_2024.xls placed in this folder.
+Supplementary material to article: Bailly N, Gofas S, Lonneville B. "A worldwide geographical scheme for recording the distribution of marine biota: proposal and call for feedback" to be published in *Biodiversity Data Journal* (an illustrated and expanded version of section 4. “Results: the proposal” of this article)
+
+
+The proposal for a marine scheme features five Level 1 units, 26 Level-2 units, 232 Level 3 units and 536 Level 4 units (compare to 9 Level 1, 52 Level 2, 372 Level 3 and 609 Level 4 in the current terrestrial scheme). This draft proposal is here posted with the purpose of gathering feedback. It is summarized on the following maps, organized according to the Level 1 and Level 2 units in which they are comprised, followed by notes explaining some of the options taken. All units from Level 4 to Level 1 are detailed in the Excel file Geoschemes_marine_proposal_12_2024.xls placed in this folder.
 
 ## Higher level units 
 
@@ -314,43 +317,42 @@ The labelling of high seas features involves no country name. Taking into accoun
 
 ## References
 
-Ahyong S. (2017). Biogeography of Australian Marine Invertebrates. pp. 81-99 in: Ebach M.C. (Ed.) Handbook of Australasian Biogeography. CRC Press, Boca Raton  <https://doi.org/10.1201/9781315373096>
+Ahyong S. (2017). Biogeography of Australian Marine Invertebrates. pp. 81-99 in: Ebach M.C. (Ed.) *Handbook of Australasian Biogeography*. CRC Press, Boca Raton  <https://doi.org/10.1201/9781315373096>
 
-Allen J.A. & Sanders H.L. (1996). The zoogeography, diversity and origin of the deepsea protobranch bivalves of the Atlantic: the epilogue. Progress in Oceanography 38, 95–153 <https://doi.org/10.1016/S0079-6611(96)00011-0>
+Allen J.A. & Sanders H.L. (1996). The zoogeography, diversity and origin of the deepsea protobranch bivalves of the Atlantic: the epilogue. *Progress in Oceanography*, 38, 95–153 <https://doi.org/10.1016/S0079-6611(96)00011-0>
 
-Amano K. (2004). Biogeography and the Pleistocene extinction of neogastropods in the Japan Sea. Palaeogeography, Palaeoclimatology, Palaeoecology, 202: 245-252. <https://doi.org/10.1016/S0031-0182(03)00637-0>
+Amano K. (2004). Biogeography and the Pleistocene extinction of neogastropods in the Japan Sea. *Palaeogeography, Palaeoclimatology, Palaeoecology*, 202: 245-252. <https://doi.org/10.1016/S0031-0182(03)00637-0>
 
-Caballero‐Herrera J.A., Olivero J., von Cosel R. & Gofas S. (2022). An analytically derived delineation of the West African Coastal Province based on bivalves. Diversity and Distributions, 28(12), 2791-2805. <https://doi.org/10.1111/ddi.13454>
+Caballero‐Herrera J.A., Olivero J., von Cosel R. & Gofas S. (2022). An analytically derived delineation of the West African Coastal Province based on bivalves. *Diversity and Distributions*, 28(12), 2791-2805. <https://doi.org/10.1111/ddi.13454>
 
 Commonwealth of Australia (2006). A Guide to the Integrated Marine and Coastal Regionalisation of Australia Version 4.0. Canberra, Australia, Department of the Environment and Heritage. <https://www.environment.gov.au/system/files/resources/2660e2d2-7623-459d-bcab-1110265d2c86/files/map1-pb.pdf>
 
-Cooke A., Wells S., Oates J., Bouchet P., Gilchrist H., Leadbeater A., Gough C. L. A., Rasoloniriana R.,
-Randrianjafimanana T., Jones T. G., Aigrette L., Ratefinjanahary I. & Ravelonjatovo J. (2023). Marine and coastal biodiversity and conservation,  pp. 311-451, in Goodman S. M. (Ed.) The New Natural History of Madagascar. Princeton University Press. <https://doi.org/10.1515/9780691229409>
+Cooke A., Wells S., Oates J., Bouchet P., Gilchrist H., Leadbeater A., Gough C. L. A., Rasoloniriana R., Randrianjafimanana T., Jones T.G., Aigrette L., Ratefinjanahary I., & Ravelonjatovo J. (2023). Marine and coastal biodiversity and conservation,  pp. 311-451, in Goodman S. M. (Ed.) *The New Natural History of Madagascar*. Princeton University Press. <https://doi.org/10.1515/9780691229409>
 
 Department of Fisheries and Oceans. (2009). Development of a framework and principles for the biogeographic classification of Canadian marine areas. Canadian Science Advisory Secretariat, Science Advisory Report 2009/056, 17 pp. <https://web.archive.org/web/20221005195716/https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/338958.pdf>
 
-Douglass L.L., Turner J., Grantham H.S., Kaiser S., Constable A., et al. (2014) A hierarchical classification of benthic biodiversity and assessment of protected areas in the Southern Ocean. PLoS One 9(7): e100551 (16 pp.). <https://doi.org/10.1371/journal.pone.0100551>
+Douglass L.L., Turner J., Grantham H.S., Kaiser S., Constable A., et al. (2014) A hierarchical classification of benthic biodiversity and assessment of protected areas in the Southern Ocean. *PLoS One*, 9(7): e100551 (16 pp.). <https://doi.org/10.1371/journal.pone.0100551>
 
-Eakins B.W., & Sharman G.F. (2010). Volumes of the World’s Oceans from ETOPO1. NOAA National Geophysical Data Center, Boulder, CO. <https://www.ncei.noaa.gov/sites/g/files/anmtlf171/files/2023-01/World%20Ocean%20Volumes.pdf>
+Eakins B.W. & Sharman G.F. (2010). Volumes of the World’s Oceans from ETOPO1. NOAA National Geophysical Data Center, Boulder, CO. <https://www.ncei.noaa.gov/sites/g/files/anmtlf171/files/2023-01/World%20Ocean%20Volumes.pdf>
 
 Fisheries Agency of Japan (2011). Fisheries Policy Outline for FY2011. White Paper on Fisheries 2010/2011: summary. <http://www.jfa.maff.go.jp/j/kikaku/wpaper/pdf/2010_haku_en6.pdf>
 
-Griffiths H.J., Barnes, D. K. & Linse K. (2009). Towards a generalized biogeography of the Southern Ocean benthos. Journal of Biogeography, 36(1), 162-177. < https://doi.org/10.1111/j.1365-2699.2008.01979.x>
+Griffiths H.J., Barnes, D.K., & Linse K. (2009). Towards a generalized biogeography of the Southern Ocean benthos. *Journal of Biogeography*, 36(1), 162-177. <https://doi.org/10.1111/j.1365-2699.2008.01979.x>
 
-Jensen H.M., Panagiotidis P. & Reker J. (2017). Delineation of the MSFD Article 4 marine regions and subregions Version 1.0. Technical document of the European Environmental Agency, 21 pp. Available from  <https://web.archive.org/web/20170605025903/https://www.eea.europa.eu/data-and-maps/data/msfd-regions-and-subregions/technical-document/pdf/download>
+Jensen H.M., Panagiotidis P., & Reker J. (2017). Delineation of the MSFD Article 4 marine regions and subregions Version 1.0. Technical document of the European Environmental Agency, 21 pp. Available from  <https://web.archive.org/web/20170605025903/https://www.eea.europa.eu/data-and-maps/data/msfd-regions-and-subregions/technical-document/pdf/download>
 
-Longhurst A. (1998) Ecological Geography of the Sea. Academic Press, San Diego, xv + 542 pp., 22 plates.
+Longhurst A. (1998) *Ecological Geography of the Sea*. Academic Press, San Diego, xv + 542 pp., 22 plates.
 
-Poore G.C.B. & O'Hara T.D. (2007). Marine biogeography and biodiversity of Australia. Pp. 177-198 in: Connell, S.D., and Gillanders, B.M. (eds), Marine Ecology. Oxford University Press: South Melbourne <https://doi.org/10.1201/9781315373096>
+Poore G.C.B. & O'Hara T.D. (2007). Marine biogeography and biodiversity of Australia. Pp. 177-198 in: Connell, S.D., and Gillanders, B.M. (eds), *Marine Ecology*. Oxford University Press: South Melbourne <https://doi.org/10.1201/9781315373096>
 
-Relini G. (2008).  Introduzione. pp.  v-xi, in: Relini G: (Ed.) Checklist della flora e della fauna dei mari italiani, parte I. Biologia Marina Mediterranea, 15 (suppl.) <https://www.sibm.it/public/book-files/SIBM-Biologia-Marina-Mediterranea-15-Suppl-1---2008-ITAENG--Num-.pdf>
+Relini G. (2008).  Introduzione. pp.  v-xi, in: Relini G: (Ed.) Checklist della flora e della fauna dei mari italiani, parte I. *Biologia Marina Mediterranea*, 15 (suppl.) <https://www.sibm.it/public/book-files/SIBM-Biologia-Marina-Mediterranea-15-Suppl-1---2008-ITAENG--Num-.pdf>
 
-Rosenberg G. (2009) Malacolog 4.1.1. A database of Western Atlantic Marine Mollusca. <http:// www. malacolog. org/>
+Rosenberg G. (2009) Malacolog 4.1.1. A database of Western Atlantic Marine Mollusca. <http://www.malacolog. org/> [unavailable since April 2025]
 
-Spalding M. D., Fox H. E., Allen G. R., Davidson N., Ferdaña Z. A., Finlayson M. A. X., ... & Robertson J. (2007). Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. BioScience, 57: 573-583. <https://doi.org/10.1641/B570707>
+Spalding M. D., Fox H. E., Allen G. R., Davidson N., Ferdaña Z. A., Finlayson M. A. X., ... & Robertson J. (2007). Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. *BioScience*, 57: 573-583. <https://doi.org/10.1641/B570707>
 
-Sutton T. T., Clark M. R., Dunn D. C., Halpin P. N., Rogers A. D., Guinotte J., ... & Heino M. (2017). A global biogeographic classification of the mesopelagic zone. Deep Sea Research Part I: Oceanographic Research Papers, 126, 85-102. < https://doi.org/10.1016/j.dsr.2017.05.006>
+Sutton T.T., Clark M.R., Dunn D.C., Halpin P.N., Rogers A.D., Guinotte J., ... & Heino M. (2017). A global biogeographic classification of the mesopelagic zone. *Deep Sea Research Part I: Oceanographic Research Papers*, 126, 85-102. < https://doi.org/10.1016/j.dsr.2017.05.006>
 
 UNESCO (2009). Global Open Oceans and Deep Seabed (GOODS) – Biogeographic Classification. Paris, UNESCO-IOC, Technical Series 84, 87 pp.
 
-Watling L., Guinotte J., Clark M. R. & Smith C. R. (2013). A proposed biogeography of the deep ocean floor. Progress in Oceanography, 111, 91-112. < https://doi.org/10.1016/j.pocean.2012.11.003>
+Watling L., Guinotte J., Clark M.R., & Smith C.R. (2013). A proposed biogeography of the deep ocean floor. *Progress in Oceanography*, 111, 91-112. <https://doi.org/10.1016/j.pocean.2012.11.003>
