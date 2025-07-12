@@ -77,8 +77,8 @@ four levels of hierarchy.
 
 ## Rationale for the definition of units
 
-The terrestrial scheme (second edition, 2001) has nine level-1, 91
-level-2 , 379 level-3 and 609 level-4 units. In a hierarchical system,
+The terrestrial scheme (second edition, 2001) has nine level-1, 52
+level-2 , 372 level-3 and 609 level-4 units. In a hierarchical system,
 it is a requisite that the borders of more comprehensive levels coincide
 with those of included units, with no overlaps nor discrepancies. A
 similar hierarchy should be conceived for the marine counterpart with
@@ -136,7 +136,7 @@ forum https://github.com/gbif/pipelines/issues/612, accessed
 2022-05-26) (below, the SeaVox areas for comparison)*
 
 The largest IHO polygons could be candidate geounits for Level 1 of a
-universal marine scheme, were it not that many parts of oceans and seas
+universal marine scheme,  if they encompassed the entire oceans, but this is not the case as many parts of oceans and seas
 are named as separate geounits of the same level (e.g. Gulf of Guinea
 and Bay of Biscay are not part of the North Atlantic Ocean, but adjacent
 units of same rank). Therefore, the IHO scheme could be used only if
@@ -167,7 +167,7 @@ provisions of the United Nations Convention for the Law of the Sea
 (UNCLOS). For those states which have not declared so far an EEZ, the UNCLOS considers the concept of a
 “continental shelf” (not constrained to the physiographic continental
 shelf) which is granted with no need for a declaration and comprises the
-sea-bottom to the same extent of 200 nautical miles. In the Marine Regions website, “EEZ” is taken in the broad sense of a potential EEZ from shore to a distance of 200 NM, and a complete set of shapefiles is publicly available at <https://www.marineregions.org/downloads.php> (latest version 12, October 2023)
+sea-bottom to the same extent of 200 nautical miles. In the Marine Regions website, “EEZ” is taken in the broad sense of a potential EEZ from shore to a distance of 200 NM, and a complete set of shapefiles is publicly available at <https://www.marineregions.org/downloads.php> (latest version 12, October 2023).
 
 <img src="./background-images/image3.png"
 style="width:4.32431in;height:2.16667in" />
@@ -177,8 +177,8 @@ style="width:4.32431in;height:2.16667in" />
 For many small or medium-sized coastal countries and territories, the
 corresponding EEZ provides a suitable polygon for the basic recording
 unit at level 4. The EEZs of larger countries (e.g. The United States,
-South Africa, Indonesia...) and/or with a complex maritime facade (e.g.
-Spain, Egypt, Costa Rica...) must be split.
+South Africa, Indonesia) and/or with a complex maritime facade (e.g.
+Spain, Egypt, Costa Rica) must be split.
 
 The Marine Regions website at VLIZ <www.marineregions.org/> has
 developed a set of geounits with placename “Marine Regions” (not to be
@@ -240,7 +240,7 @@ these polygons have been already used for the establishment of an
 official reference list of all marine organisms present in the country,
 issued in 2017 (but unfortunately withdrawn in 2020). 
 
-Another well-established regional scheme is Australia’s “Integrated Marine and Coastal Regionalisation of Australia” (IMCRA 4.0). There are only seven (the states) Level 4 units (the states) in the terrestrial WGSRPD scheme but the marine realm is complex. No less than 18 MEOW are defined in Australian waters (Spalding et al., 2007). An alternative scheme is provided with the “Integrated Marine and Coastal Regionalisation of Australia” (IMCRA 4.0)and 41 regions in the marine IMCRA 4.0 <https://www.environment.gov.au/system/files/resources/2660e2d2-7623-459d-bcab-1110265d2c86/files/map1-pb.pdf>, which departs from an other EEZ-based schemes by considering separately the shallow coastal regions and the remainder of the EEZ. However, it has the advantage of being a coherent system whose outer boundaries are exactly coincident with Australian EEZ. The designation of six marine regions (North, Coral Sea, Temperate East, South-east, South-west and North-west) defined in support of the Environment Protection and Biodiversity Conservation Act was supposedly informed (Evans et al. 2016) by the provincial bioregions identified as part of the IMCRA 4.0, but the boundaries are not coincident, the “transition zones” recognized in the IMCRA scheme are arbitrarily split and the scheme even departs from traditional Australian marine biogeographical regions (Poore & O’Hara 2007).  Important is to respect the contrast between temperate and tropical parts (map 5, from Gaylard et al. 2020). 
+Another well-established regional scheme is Australia’s “Integrated Marine and Coastal Regionalisation of Australia” (IMCRA 4.0). There are only seven (the states) Level 4 units (the states) in the terrestrial WGSRPD scheme but the marine realm is complex. No less than 18 MEOW are defined in Australian waters (Spalding et al., 2007). An alternative scheme is provided with the “Integrated Marine and Coastal Regionalisation of Australia” (IMCRA 4.0)and 41 regions in the marine IMCRA 4.0 <https://www.environment.gov.au/system/files/resources/2660e2d2-7623-459d-bcab-1110265d2c86/files/map1-pb.pdf>, which departs from an other EEZ-based schemes by considering separately the shallow coastal regions and the remainder of the EEZ. However, it has the advantage of being a coherent system whose outer boundaries are exactly coincident with Australian EEZ. The designation of six marine regions (North, Coral Sea, Temperate East, South-east, South-west and North-west) defined in support of the Environment Protection and Biodiversity Conservation Act was supposedly informed (Evans et al. 2016) by the provincial bioregions identified as part of the IMCRA 4.0, but the boundaries are not coincident, the “transition zones” recognized in the IMCRA scheme are arbitrarily split and the scheme even departs from traditional Australian marine biogeographical regions (Poore & O’Hara 2007). The important point here is to respect the contrast between temperate and tropical parts. 
 IMCRA regions are used for display in the Australian Faunal Directory <https://biodiversity.org.au/afd/home>, whereas Atlas of Living Australia (Belbin et al. 2021, <https://www.ala.org.au/>) uses only point data for the display on species factsheets but uses the IMCRA regions as bounding box for search within an area <http://regions.ala.org.au/#rt=States+and+territories>
 A further reason for adopting them IMCRA regions as Level 4 units is that, despite their number, their extension is similar to that of Level 4 units in many other parts of the World (average surface ca. 244,000 km<sup>2</sup>).
 
@@ -467,6 +467,8 @@ Emery K.O., Uchupi E., Phillips J., Bowin C., & Mascle J. (1975). Continental ma
 
 FAO Coordinating Working Party on Fishery Statistics (2025). *The CWP Handbook of Fishery Statistics*. Online document, available at <https://www.fao.org/cwp-on-fishery-statistics/handbook/en/>, accessed June 17, 2025. 
 
+Evans K., Bax N., & Smith D. (2017). Australia State of the Environment 2016: Marine Environment, Independent Report to the Australian Government Minister for the Environment and Energy. Australian Government, Depart of the Environment and Energy, Canberra, 224 pp. Available from <https://soe.dcceew.gov.au/sites/default/files/2022-05/soe2016-marine-launch_v36march17.pdf>
+
 Flanders Marine Institute. (2019). Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM), version 11. Available online at <http://www.marineregions.org/>. https://doi.org/10.14284/386 
 
 Fofonoff P.W., Ruiz G.M., Steves B., Simkanin C., & Carlton J.T. (2018). NEMESIS: National Exotic Marine and Estuarine Species Information System. Available online at <http://invasions.si.edu/nemesis>.
@@ -481,27 +483,27 @@ Hooker S.B. & McClain C.R. (2000). The calibration and validation of SeaWiFS dat
 
 International Hydrographic Organization (1953). *Limits of oceans and seas*. International Hydrographic Organization, Monte-Carlo, Special publication n§ 28, 38 pp. + erratum. 
 
-Jensen H.M., Panagiotidis P. & Reker J. (2017). Delineation of the MSFD Article 4 marine regions and subregions Version 1.0. Technical document of the European Environmental Agency, 21 pp. Available from  <https://web.archive.org/web/20170605025903/https://www.eea.europa.eu/data-and-maps/data/msfd-regions-and-subregions/technical-document/pdf/download>
+Jensen H.M., Panagiotidis P., & Reker J. (2017). Delineation of the MSFD Article 4 marine regions and subregions Version 1.0. Technical document of the European Environmental Agency, 21 pp. Available from  <https://web.archive.org/web/20170605025903/https://www.eea.europa.eu/data-and-maps/data/msfd-regions-and-subregions/technical-document/pdf/download>
 
 Kelleher G., Bleakley C., & Wells S. (1995) A Global Representative System of Marine Protected Areas, v.1. Antarctic, Arctic, Mediterranean, Northwest Atlantic, Northeast Atlantic and Baltic. xii+ 219 pp., maps; - v.2. Wider Caribbean, West Africa and South Atlantic, iv+ 93p., maps. - v.3. Central Indian Ocean, Arabian Seas, East Africa and East Asian Seas, iv + 147 pp., maps. - v.4. South Pacific, Northeast Pacific, Northwest Pacific, Southeast Pacific and Australia/New Zealand. Washington, DC, USA: World Bank. 
 
 Kennedy B.R.C. & Rotjan R.D. (2023) Mind the gap: comparing exploration effort with global biodiversity patterns and climate projections to determine ocean areas with greatest exploration needs. Front. Mar. Sci. 10: 1219799 (10 pp.). https://doi.org/10.3389/fmars.2023.1219799
 
-Longhurst A. 1998 Ecological Geography of the Sea. Academic Press, San Diego, xv + 542 pp., 22 plates.  
+Longhurst A. 1998 *Ecological Geography of the Sea*. Academic Press, San Diego, xv + 542 pp., 22 plates.  
 
 Neubauer T., Gofas S., & Harzhauser M. (2025). Biogeographic patterns of modern benthic shallow-water molluscs and the roles of temperature and palaeogeographic legacy. *Scientific Reports*, 15: 15:20304 (13 pp.) https://doi.org/10.1038/s41598-025-06473-0
 
-Sayre R.G., Wright D.J., Breyer S.P., Butler K.A., Van Graafeiland K., Costello M.J., Harris P.T., Goodin K.L., Guinotte J.M., Basher Z., Kavanaugh M.T., Halpin P.N., Monaco M.E., Cressie N., Aniello P., Frye C.E., Stephens, D. (2017). A three-dimensional mapping of the ocean based on environmental data. *Oceanography*, 30(1), 90-103.  https://www.jstor.org/stable/10.2307/24897845
+Sayre R.G., Wright D.J., Breyer S.P., Butler K.A., Van Graafeiland K., Costello M.J., Harris P.T., Goodin K.L., Guinotte J.M., Basher Z., Kavanaugh M.T., Halpin P.N., Monaco M.E., Cressie N., Aniello P., Frye C.E., & Stephens, D. (2017). A three-dimensional mapping of the ocean based on environmental data. *Oceanography*, 30(1), 90-103.  https://www.jstor.org/stable/10.2307/24897845
 
 Sherman K. (1991). The Large Marine Ecosystem concept: research and management strategy for living marine resources. *Ecological Applications*, 1(4): 350-360.
 
-Spalding M.D., Fox H.E., Allen G.R., Davidson N., Ferda¤a Z.A., Finlayson, M., ... Robertson, J. (2007). Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. *BioScience*, 57, 573-583. https://doi.org/10.1641/B570707 
+Spalding M.D., Fox H.E., Allen G.R., Davidson N., Ferda¤a Z.A., Finlayson M., ... & Robertson, J. (2007). Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. *BioScience*, 57, 573-583. https://doi.org/10.1641/B570707 
 
 Spalding M.D., Agostini V.N., Rice J., & Grant S.M. (2012). Pelagic provinces of the world: A biogeographic classification of the world’s surface pelagic waters. *Ocean & Coastal Management*, 60, 19-30. https://doi.org/10.1016/j.ocecoaman.2011.12.016
 
 Sutton T.T., Clark M.R., Dunn D.C., Halpin P.N., Rogers A.D., Guinotte J., ... & Heino M. (2017). A global biogeographic classification of the mesopelagic zone. *Deep Sea Research Part I: Oceanographic Research Papers*, 126: 85-102. https://doi.org/10.1016/j.dsr.2017.05.006
 
-Toonen R.J., Bowen B.W., Iacchei M. & Briggs J.C. (2016). Biogeography, Marine. In R.M. Kliman (Ed.), *Encyclopedia of evolutionary biology* (Vol. 1, pp. 166-178). Oxford: Academic Press. <https://doi.org/10.1016/B978-0-12-800049-6.00120-7>
+Toonen R.J., Bowen B.W., Iacchei M., & Briggs J.C. (2016). Biogeography, Marine. In R.M. Kliman (Ed.), *Encyclopedia of evolutionary biology* (Vol. 1, pp. 166-178). Oxford: Academic Press. <https://doi.org/10.1016/B978-0-12-800049-6.00120-7>
 
 UNESCO (2009). *Global Open Oceans and Deep Seabed (GOODS) Biogeographic Classification*. Paris, UNESCO-IOC, Technical Series 84, 87 pp. <https://unesdoc.unesco.org/ark:/48223/pf0000182451 > 
 
