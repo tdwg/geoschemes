@@ -1,6 +1,6 @@
 # A worldwide geographical scheme for recording the distribution of marine biota: Revised draft (December 2024) of the proposal.
 
-Supplementary material to article: Bailly N, Gofas S, Lonneville B. "A worldwide geographical scheme for recording the distribution of marine biota: proposal and call for feedback" to be published in *Biodiversity Data Journal* (an illustrated and expanded version of section 4. “Results: the proposal” of this article)
+Supplementary material to article: Bailly N, Gofas S, Lonneville B. [A worldwide geographical scheme for recording the distribution of marine biota: proposal and call for feedback](https://doi.org/10.3897/BDJ.13.e157371) published July 31, 2025 in *Biodiversity Data Journal* (an illustrated and expanded version of section 4. “Results: the proposal” of this article)
 
 
 The proposal for a marine scheme features five Level 1 units, 26 Level-2 units, 232 Level 3 units and 536 Level 4 units (compare to 9 Level 1, 52 Level 2, 372 Level 3 and 609 Level 4 in the current terrestrial scheme). This draft proposal is here posted with the purpose of gathering feedback. It is summarized on the following maps, organized according to the Level 1 and Level 2 units in which they are comprised, followed by notes explaining some of the options taken. All units from Level 4 to Level 1 are detailed in the Excel file Geoschemes_marine_proposal_12_2024.xls placed in this folder.
