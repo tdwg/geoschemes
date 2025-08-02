@@ -1,6 +1,6 @@
 # Introduction to the TDWG Marine Regions effort
 
-_Last updated: 14 jul 2025_
+_Last updated: 02 aug 2025_
 
 ## Primary contacts:
   - [Serge Gofas](mailto:sgofas@uma.es) - Universidad de Málaga
@@ -13,7 +13,7 @@ The abovementioned convenors have been (as of November 2023)  endorsed by the Ex
 
 ## Resources:
 
-A paper describing the proposal is in press at *Biodiversity Data Journal* with title **A worldwide geographical scheme for recording the distribution of marine biota: proposal and call for feedback**, with three items of supplementary material also posted here
+A paper [A worldwide geographical scheme for recording the distribution of marine biota: proposal and call for feedback](https://doi.org/10.3897/BDJ.13.e157371) describing the proposal has been published July 31, 2025 in *Biodiversity Data Journal*, with three items of supplementary material also posted here:
 
 - a background document (./background_v3_2025-07.md) to describe the need and a proposed strategy for developing a scheme of marine regions comparable to the TDWG standard for terrestrial regions. 
 
