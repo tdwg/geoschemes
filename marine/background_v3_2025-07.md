@@ -1,6 +1,7 @@
 # A worldwide geographical scheme for recording the distribution of marine biota: background document
 
-Supplementary material to article: Bailly N., Gofas S., & Lonneville B. "A worldwide geographical scheme for recording the distribution of marine biota: proposal and call for feedback" to be published in *Biodiversity Data Journal* (an illustrated and expanded version of section 2. “State of the art: Existing sets of geounits in the marine realm” of this article)
+Supplementary material to article: Bailly N., Gofas S., & Lonneville B. [A worldwide geographical scheme for recording the distribution of marine biota: proposal and call for feedback](https://doi.org/10.3897/BDJ.13.e157371) published July 31, 2025 in *Biodiversity Data Journal* (an illustrated and expanded version of section 2. “State of the art: Existing sets of geounits in the marine realm” of this article)
+ 
 
 ## Introduction
 
