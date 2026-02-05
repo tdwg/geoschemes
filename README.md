@@ -9,6 +9,15 @@ This is the space of the TDWG Geographic Schemes Interest Group. As presented be
 #### [Serge Gofas](sgofas@uma.es) - Universidad de Málaga, Málaga
 #### [Britt Lonneville](mailto:britt.lonneville@vliz.be) - Marine Regions, Flanders Marine Institute, Oostende, Belgium
 
+# Aditional contributors
+#### Remi Palard - INRIA, LIRMM, Université de Montpellier, CNRS, Montpellier, France
+#### Maxime Fromholtz - INRIA, LIRMM, Université de Montpellier, CNRS, Montpellier, France
+#### Antoine Affouard - INRIA, LIRMM, Université de Montpellier, CNRS, Montpellier, France
+#### Mathias Chouet - CIRAD, UMR AMAP, Montpellier, France
+#### Hervé Goéau - CIRAD, UMR AMAP, Montpellier, France
+#### Thomas Paillot - INRIA, LIRMM, Université de Montpellier, CNRS, Montpellier, France
+#### Alexis joly - INRIA, LIRMM, Université de Montpellier, CNRS, Montpellier, France
+#### Pierre Bonnet - CIRAD, UMR AMAP, Montpellier, France
 
 # Motivation
 Knowledge of species’ geographical distributions is critical to understanding evolutionary processes, changes in ecological communities, and now most importantly the conservation of biodiversity.  Ultimately, our knowledge of species distributions comes from assembling records of specimens and observations made by many individuals over many years.  Tasks required to compile occurrence data include documenting locations when specimens or observations are collected, extracting and harmonizing data from many sources, georeferencing collecting localities without geocoordinates, applying quality control, and analyzing occurrence data against other geospatial phenomena.  Almost all of these tasks can be facilitated if the biological records are connected to a common scheme of hierarchically organized named areas or geospatial entities. 
