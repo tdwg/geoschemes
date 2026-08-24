@@ -8,6 +8,13 @@ marine domain's column naming, ahead of the terrestrial/marine harmonization
 call (Serge Gofas & Paco Pando, 25 Aug 2026, 09:00 CEST). No row data was
 changed — only header text. The live/production files are untouched.
 
+`Terrestrial_Master_SDS-aligned.xlsx` additionally consolidates all four
+levels into a single table (1,434 rows), for the part of the "one table per
+level vs. one table for everything" question that's already settled: a
+single master table *per domain* (i.e. one for terrestrial, independently
+of whatever the marine side does, and independently of whether terrestrial
+and marine end up as one SDS standard or two — both still open).
+
 ## Context
 
 Prompted by Serge Gofas's email of 23 Aug 2026 ("Re: Getting closer to
@@ -34,13 +41,38 @@ terrestrial-specific): `Id`, `In Ed. 2`, `Change according to page 9`,
 present under that name and needed no change — it already matches marine's
 `definition` column and SDS's `rdfs:comment` / `skos:definition`.
 
+## Consolidated master table
+
+`Terrestrial_Master_SDS-aligned.xlsx` merges the four renamed tables above
+into one sheet (`tblGeoschemesTerrestrial`), with two columns replacing the
+per-level bookkeeping:
+
+- **`Level`** (1–4) — which of the original tables the row came from.
+- **`skos_broader`** — the immediate parent's `Local_name` code, replacing
+  the level-specific `Level_1` / `Level_2` / `Level_3` parent-reference
+  columns (which meant different things depending on which file they were
+  in — now that `Level` carries that information, one generically-named
+  parent column works for every row). Blank for Level 1 (continents have no
+  parent).
+
+Every other column (`Local_name`, `Full_name`, `ISO_ter1`, `In Ed. 2`,
+`Definition`, `Change according to page 9`, `Solved`, `Doubt`, `ISSUES`,
+`Id`) carries straight across, populated where the source table had it and
+blank where it didn't (e.g. `Solved`/`Doubt`/`ISSUES` are blank for Level
+1–2 rows, since those tables never carried them). Level 1's old `Exchange
+notes` column and Level 3/4's `Revision notes` column are folded into one
+shared `Revision notes` column, the same treatment `Revision notes` already
+got within Level 4 earlier in this process. Verified against the four
+source tables cell-by-cell — 1,434 rows, zero mismatches.
+
+This does **not** decide whether terrestrial and marine end up as one SDS
+standard or two, or what marine's own table structure should be — both are
+still explicitly on the agenda for the 25 Aug call. It only settles that
+*within* the terrestrial domain, the four levels live in one table now
+instead of four.
+
 ## Deliberately NOT done here (open questions for the 25 Aug call)
 
-- **One table per level vs. one table for everything.** Serge's email
-  explicitly raises this as unresolved ("Another thing we need to decide
-  on..."). This staging folder keeps the four-table structure so it doesn't
-  pre-empt that discussion; see the separate consolidation proposal
-  discussed in chat if a single master table is agreed on the call.
 - **ISO code format (alpha-2 vs. alpha-3).** Serge's older mapping equated
   terrestrial's ISOcode to marine's alpha-2 code; the newer shapefile-based
   scheme uses `ISO_ter1` = alpha-3. Terrestrial's current ISOcode values
@@ -67,4 +99,5 @@ present under that name and needed no change — it already matches marine's
 - `Level2_SDS-aligned.xlsx` (52 units)
 - `Level3_SDS-aligned.xlsx` (369 units)
 - `Level4_SDS-aligned.xlsx` (1,004 units)
+- `Terrestrial_Master_SDS-aligned.xlsx` (all 1,434 units in one table)
 - This `README.md`
