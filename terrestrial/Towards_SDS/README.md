@@ -9,7 +9,7 @@ call (Serge Gofas & Paco Pando, 25 Aug 2026, 09:00 CEST). No row data was
 changed — only header text. The live/production files are untouched.
 
 `Terrestrial_Master_SDS-aligned.xlsx` additionally consolidates all four
-levels into a single table (1,434 rows), for the part of the "one table per
+levels into a single table (1,048 rows), for the part of the "one table per
 level vs. one table for everything" question that's already settled: a
 single master table *per domain* (i.e. one for terrestrial, independently
 of whatever the marine side does, and independently of whether terrestrial
@@ -63,7 +63,19 @@ blank where it didn't (e.g. `Solved`/`Doubt`/`ISSUES` are blank for Level
 notes` column and Level 3/4's `Revision notes` column are folded into one
 shared `Revision notes` column, the same treatment `Revision notes` already
 got within Level 4 earlier in this process. Verified against the four
-source tables cell-by-cell — 1,434 rows, zero mismatches.
+source tables cell-by-cell — 1,048 real rows, zero mismatches.
+
+**Data-quality finding, not something this merge introduced:** `Level4`'s
+declared row count (1,004) includes 386 fully-blank rows — Excel formatting
+padding with no content, present since before this process started (traced
+back through every cached copy from this session, including the original
+pre-harmonization file, and still present in the live production
+`../Level4_20-Aug-26.xlsx` on GitHub today). Real Level4 data ends at 618
+rows. The master table drops these blank rows rather than carrying them
+forward; the four per-level `_SDS-aligned` files above still contain them
+unchanged, since cleaning that up wasn't in scope for the rename pass.
+Worth deciding on the call whether to also strip that padding from the
+production Level4 file.
 
 This does **not** decide whether terrestrial and marine end up as one SDS
 standard or two, or what marine's own table structure should be — both are
@@ -98,6 +110,6 @@ instead of four.
 - `Level1_SDS-aligned.xlsx` (9 units)
 - `Level2_SDS-aligned.xlsx` (52 units)
 - `Level3_SDS-aligned.xlsx` (369 units)
-- `Level4_SDS-aligned.xlsx` (1,004 units)
-- `Terrestrial_Master_SDS-aligned.xlsx` (all 1,434 units in one table)
+- `Level4_SDS-aligned.xlsx` (618 real units + 386 blank padding rows inherited from the source file — see the data-quality note above)
+- `Terrestrial_Master_SDS-aligned.xlsx` (1,048 real units in one table; padding rows dropped)
 - This `README.md`
