@@ -31,14 +31,15 @@ is to be the complete historical record including deletions.
 Prompted by Serge Gofas's email of 23 Aug 2026 ("Re: Getting closer to
 finalising Geoschemes"), which maps the terrestrial columns onto the marine
 domain's proposed SDS-oriented scheme, and onto the columns of Marine
-Regions' own shapefile attribute table.
+Regions' own shapefile attribute table, and onto the marine proposal file
+(`../../marine/Geoschemes_marine_proposal_12_2024.xls`).
 
 ## Rename mapping applied
 
-| Terrestrial (old) | Terrestrial (new) | Marine equivalent (per Serge's email) | SDS / SKOS equivalent |
+| Terrestrial (old) | Terrestrial (new) | Marine equivalent | SDS / SKOS equivalent |
 |---|---|---|---|
-| L1/L2/L3/L4 code (the unit's own code) | `Local_name` | `Local_name` = `term_localName` | controlled value string (`rdf:value`) |
-| L1 continent / L2 region / L3 area / L4 area (the unit's own name) | `Full_name` | `Full_name` = `label` | `rdfs:label` |
+| L1/L2/L3/L4 code (the unit's own code) | `term_localName/`<br>`controlled_value_string` | `term_localName/controlled_value_string` | controlled value string (`rdf:value`) |
+| L1 continent / L2 region / L3 area / L4 area (the unit's own name) | `label` | `label` | `rdfs:label` |
 | L1 code *(as parent reference in Level2)* | `Level_1` | `Level_1` | `skos:broader` |
 | L2 code *(as parent reference in Level3)* | `Level_2` | `Level_2` | `skos:broader` |
 | L3 code *(as parent reference in Level4)* | `Level_3` | `Level_3` (= `skos_broader`) | `skos:broader` |
@@ -46,8 +47,18 @@ Regions' own shapefile attribute table.
 
 Left unchanged (no marine/SDS equivalent identified in the email, or
 terrestrial-specific): `Id`, `In Ed. 2`, `Change according to page 9`,
-`Solved`, `Doubt`, `Revision notes`, `ISSUES`. `Definition` was already
-present under that name and needed no change.
+`Solved`, `Doubt`, `Revision notes`, `ISSUES`.
+
+## Marine-aligned columns added (25 Aug 2026)
+
+To match the marine proposal file's own column set, the master and all four
+per-level tables (Towards_SDS and production alike) also gained:
+
+- **`type`** — `"concept"` on every row.
+- **`external url`** — new, currently blank.
+- **`parent unit name`** — the immediate parent's `label`, resolved from
+  `skos_broader` (or `Level_1`/`Level_2`/`Level_3` in the per-level files).
+  Blank for Level 1 (continents have no parent).
 
 ## Consolidated master table
 
@@ -56,7 +67,7 @@ into one sheet (`tblGeoschemesTerrestrial`), with two columns replacing the
 per-level bookkeeping:
 
 - **`Level`** (1–4) — which of the original tables the row came from.
-- **`skos_broader`** — the immediate parent's `Local_name` code, replacing
+- **`skos_broader`** — the immediate parent's local-name code, replacing
   the level-specific `Level_1` / `Level_2` / `Level_3` parent-reference
   columns. Blank for Level 1 (continents have no parent).
 
@@ -85,44 +96,43 @@ these are dropped everywhere too. Real Level4 content: 617 rows.
 throughout (level tables, master, CHANGES `NOTES`), using the
 GSTerr→GitHub-issue mapping established earlier in this project.
 
-## 25 Aug 2026 update — production brought in line with master
+## Definitions populated (25 Aug 2026)
 
-Paco edited `Terrestrial_Master_SDS-aligned.xlsx` and `CHANGES_SDS-aligned.xlsx`
-directly (as `...-25-08-26` dated working copies) to resolve four
-long-standing review items and log one unit rename:
+Every row (1,047) now has a `Definition`. Levels 1–3 are composed
+mechanically from the hierarchy already in the table: a unit with more than
+one child reads "The territory comprising A, B, and C." (e.g. `SPA` →
+"The territory comprising SPA-AN, SPA-GI, and SPA-SP."); a unit with
+exactly one child — the common case for Level 3, where ~80% of units are a
+single undivided country — inherits that child's own definition instead
+(e.g. `AFG` → "Afghanistan"), cascading up through multiple levels where
+needed. Level 4 (617 leaf units) was researched individually, short
+descriptive phrases in the style of "Continental Spain," web-verified where
+the unit wasn't a well-known place.
 
-- **AGE-DF** (Argentina) renamed to **Ciudad Autónoma de Buenos Aires**,
-  tagged `N` (Name change) in `Change according to page 9`, marked
-  `Solved = Yes`. Logged as a new row in `CHANGES_SDS-aligned.xlsx`.
-- **SCS-PI** (Paracel Is.): the ad-hoc `PI*` ISO code cleared (no ISO code —
-  disputed status), `Solved = Yes`, revision note trimmed to "political
-  status is disputed."
-- **TCS-AB** (Abkhaziya, issue #5) and **TCS-NK** (Nagorno Karabakh, issue
-  #13): both marked `Solved = Yes`.
+A handful of disputed-sovereignty Level 4 definitions (Navassa Island, the
+Paracel and Spratly Islands, Tromelin, Abkhazia, Nagorno-Karabakh, Western
+Sahara) originally included a "disputed territory" qualifier in the
+definition text itself; at Paco's direction these were trimmed to just the
+place name/description, leaving the political framing out of the
+definition (e.g. `TCS-AB` → "Abkhazia," not "Abkhazia, a breakaway region of
+Georgia").
 
-These edits — plus the valid-units-only filtering and the SDS column
-renaming — have now been propagated to the production tables one level up
-(`../Level1_21-Aug-26.xlsx`, `../Level2_21-Aug-26.xlsx`,
-`../Level3_20-Aug-26.xlsx`, `../Level4_20-Aug-26.xlsx`,
-`../CHANGES_20-Aug-26.xlsx`), which previously still used the old column
-names and still carried the 386 blank padding rows and `SUD-OO`. Production
-and this Towards_SDS staging set are now content-identical. Row order in
-every rebuilt file matches each table's original order — the master's own
-row order (which the 25-08-26 edit left in a partial, seemingly accidental
-sort) was **not** carried over; edits were matched back onto the original
-order by `(Level, Local_name)` key.
+**Pre-existing data issue found and fixed in passing:** `ISO_ter1` for
+`CZE-CZ` (Czechia) and `CZE-SK` (Slovakia) were swapped (Czechia had `SK`,
+Slovakia had `CZ`) in every source file, predating this whole process.
+Corrected to `CZ`/`SK` respectively.
 
 ## Deliberately NOT done here (open questions for the 25 Aug call)
 
 - **ISO code format (alpha-2 vs. alpha-3).** Serge's older mapping equated
   terrestrial's ISOcode to marine's alpha-2 code; the newer shapefile-based
   scheme uses `ISO_ter1` = alpha-3. Terrestrial's current ISOcode values
-  have not been re-verified against either format.
+  have not been re-verified against either format (aside from the CZE
+  swap above).
 - **Overlapping-claim ISO columns (`ISO_ter2`, `ISO_ter3`).** Not added here
   pending a decision on scope.
-- **Marine-only columns not yet mirrored in terrestrial**: `type`, `source`,
-  `external url`. Not added here.
-- **Definitions are still empty** in every table.
+- **Marine-only column not yet mirrored in terrestrial**: `source`. Not
+  added here.
 
 ## Files
 
