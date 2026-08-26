@@ -19,8 +19,8 @@ A paper [A worldwide geographical scheme for recording the distribution of marin
 
 - a detailed description of the proposal (./proposal_v2_2024-12.md) for Level 1, Level 2 and Level 4 coastal units with all proposed geounits illustrated by maps.
 
-- an Excel file with the complete list of proposed geounits (level 1 to Level 4) and the sources to be used for the associated shapefiles (./Geoschemes_marine_proposal_12_2024.xls)
+- an updated Excel file with the complete list of proposed geounits (level 1 to Level 4) and the sources to be used for the associated shapefiles (./Geoschemes_marine_proposal_08_2026.xls), replacing the former  (./Geoschemes_marine_proposal_12_2024.xls)
 
-Due to issues with the coastline (the representation of which is not exactly coincident in the marine and terrestrial schemes), it was decided that the geospatial representations of named areas are not part of the proposed standard.
+
 
 
