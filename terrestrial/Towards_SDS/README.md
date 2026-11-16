@@ -150,3 +150,40 @@ Production (`../`, one level up) — now content-identical to the above,
 under their existing dated filenames:
 - `Level1_21-Aug-26.xlsx`, `Level2_21-Aug-26.xlsx`, `Level3_20-Aug-26.xlsx`,
   `Level4_20-Aug-26.xlsx`, `CHANGES_20-Aug-26.xlsx`
+
+## Master table restructured toward the TDWG default mapping table (16 Nov 2026)
+
+Following the discussion in tdwg/geoschemes issue #36 (Steve Baskauf's
+comment), `Terrestrial_Master_SDS-aligned.xlsx` was restructured to follow
+TDWG's default term metadata mapping table for hierarchical controlled
+vocabularies (`cv-hierarchy-column-mappings.csv` in rs.tdwg.org). The
+terrestrial standard will be a hierarchical controlled vocabulary whose
+normative document is this single all-levels table. **The per-level tables
+(`Level1`-`Level4_SDS-aligned.xlsx`) and the production files one level up
+were not changed and now differ in structure from the master.**
+
+Normative columns (dark blue headers), in the order of the default table:
+`term_localName`, `controlled_value_string`, `label`, `definition`,
+`definition_derived_from`, `skos_inScheme`, `skos_broader`, `type`.
+
+Working columns, not necessarily part of the final normative document (grey
+headers): `parent unit name`, `ISO_ter1`, `Level`, `In Ed. 2`,
+`Change according to page 9`, `Revision notes`, `ISSUES`.
+The `Column mapping` sheet lists each column with its TDWG property.
+
+Changes:
+
+- The combined `term_localName/controlled_value_string` column is split into
+  two columns holding the same value, the geoscheme code. The codes are the
+  term local names. No IRIs are stored: they will be minted by TDWG after the
+  standard is approved.
+- `external url` is renamed `definition_derived_from` and is an empty
+  placeholder for the polygon links (Zenodo "all versions" DOI; a per-unit
+  link may also be needed, still to be decided).
+- `Definition` is renamed `definition`.
+- `type` now holds full IRIs: `skos:Concept` on the 1,047 units.
+- A concept scheme row (row 2, `type` = `skos:ConceptScheme`) was added, and
+  every unit has `skos_inScheme` pointing to its local name. **The local name
+  `terrestrial` and the scheme's label and definition are provisional.**
+- Labels, definitions, hierarchy, `ISO_ter1` and the other working columns
+  are unchanged (checked cell by cell against the previous version).
